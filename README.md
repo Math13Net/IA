@@ -27,7 +27,7 @@ apprendre l'Intelligence Artificielle avec python d'après le livre de Perry Xia
 ------------------------------------------------------------------------------------------------
 
 ## <a name="3"></a> 3. Machine Learning
-* ### [les exemples du livres](https://github.com/Math13Net/IA_avec_python/blob/main/chapitre%203%20-%20machine%20learning.ipynb)
+* ### [les exemples du livre](https://github.com/Math13Net/IA_avec_python/blob/main/chapitre%203%20-%20machine%20learning.ipynb)
 * ### [différence entre SVM et NaiveBayes](https://www.analyticsvidhya.com/blog/2020/11/understanding-naive-bayes-svm-and-its-implementation-on-spam-sms/)
 * ### [sauver/charger un modèle d'1 fichier (éviter le ré-entrainement)](https://youtu.be/KfnhNlD8WZI)
 * ### [la fonction %store sous JPNB](https://ipython.readthedocs.io/en/stable/config/extensions/storemagic.html)
