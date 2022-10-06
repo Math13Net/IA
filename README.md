@@ -31,6 +31,7 @@ apprendre l'Intelligence Artificielle avec python d'après le livre de Perry Xia
 * ### [différence entre SVM et NaiveBayes](https://www.analyticsvidhya.com/blog/2020/11/understanding-naive-bayes-svm-and-its-implementation-on-spam-sms/)
 * ### [sauver/charger un modèle d'1 fichier (éviter le ré-entrainement)](https://youtu.be/KfnhNlD8WZI)
 * ### [la fonction %store sous JPNB](https://ipython.readthedocs.io/en/stable/config/extensions/storemagic.html)
+* ### [génération automatique de sample : sklearn.datasets.make_blobs - une page interessante](http://cs.wellesley.edu/~dav/code/Week13-Clustering.html)
 
 
 
