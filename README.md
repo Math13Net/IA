@@ -35,4 +35,4 @@ apprendre l'Intelligence Artificielle avec python d'après le livre de Perry Xia
 
 ## <a name="3"></a> 4. Deep Learning
 * ### [les exemples du livre]()
-* ### [thème "Intelligence Artificielle"](https://ww2.ac-poitiers.fr/math/spip.php?article1201)
+* ### [thème "Intelligence Artificielle" de Poitiers](https://ww2.ac-poitiers.fr/math/spip.php?article1201)
