@@ -5,7 +5,7 @@ apprendre l'Intelligence Artificielle avec python d'après le livre de Perry Xia
 
 ## 🚀 [3. Machine Learning](#3)
 
-## 🎃 []()
+## 🎃 [4. Deep Learning](#4)
 
 ## ❤️ []()
 
@@ -33,5 +33,6 @@ apprendre l'Intelligence Artificielle avec python d'après le livre de Perry Xia
 * ### [la fonction %store sous JPNB](https://ipython.readthedocs.io/en/stable/config/extensions/storemagic.html)
 * ### [génération automatique de sample : sklearn.datasets.make_blobs - une page interessante](http://cs.wellesley.edu/~dav/code/Week13-Clustering.html)
 
-
-
+## <a name="3"></a> 4. Deep Learning
+* ### [les exemples du livre]()
+* ### [thème "Intelligence Artificielle"](https://ww2.ac-poitiers.fr/math/spip.php?article1201)
