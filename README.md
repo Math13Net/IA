@@ -1,5 +1,5 @@
 # IA_with_python
-apprendre l'Intelligence Artificielle avec python d'après le livre de Perry Xiao Wiley (t bien d'autres liens)
+apprendre l'Intelligence Artificielle avec python d'après le livre de Perry Xiao Wiley (et bien d'autres liens)
 
 <a href="https://www.youtube.com/watch?v=gpJvvH8JFn4" target="_blank"><img src="https://github.com/Math13Net/NSI-premiere/blob/master/nsi.jpg" alt="NSI Première" width="120" height="90" border="10" /></a>
 
