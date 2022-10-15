@@ -19,7 +19,7 @@ apprendre l'Intelligence Artificielle avec python d'après le livre de [Perry Xi
 
 ## 📜 []()
 
-## 🔑 []()
+## 🔑 [outils utilisés](#outil)
 
 ## 🔐 WARNING : document under LICENCE CC ![Licence CC](https://github.com/Math13Net/NSI-premiere/blob/master/licence%20CC.png)
 
@@ -37,3 +37,17 @@ apprendre l'Intelligence Artificielle avec python d'après le livre de [Perry Xi
 * ### [les exemples du livre]()
 * ### [thème "Intelligence Artificielle" de Poitiers](https://ww2.ac-poitiers.fr/math/spip.php?article1201)
 * ### [cours vidéo Machine Learning - Deep Learning](https://www.youtube.com/c/MachineLearnia/featured) : gratuit et très bien fait
+
+
+
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+## <a name="outil"></a> Outils utilisés
+* ### [tuto numpy - partie 1](https://youtu.be/NzDQTrqsxas)
+* ### [tuto numpy - partie 2](https://youtu.be/vw4u9uBFFqU)
+* ### [tuto numpy - partie 3](https://youtu.be/RwFiNlL4Q8g)
+* ### [tuto numpy - partie 4](https://youtu.be/lIESSFHGalA)
+
+
+
+
