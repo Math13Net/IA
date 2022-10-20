@@ -38,7 +38,7 @@ apprendre l'Intelligence Artificielle avec python d'après le livre de [Perry Xi
 * ### [thème "Intelligence Artificielle" de Poitiers](https://ww2.ac-poitiers.fr/math/spip.php?article1201)
 * ### [cours vidéo Machine Learning - Deep Learning](https://www.youtube.com/c/MachineLearnia/featured) : gratuit et très bien fait
 * #### [video 5](https://github.com/Math13Net/IA_with_python/blob/main/video%205.ipynb)
-* #### [video 5 bis]()
+* #### [video 5 bis](https://github.com/Math13Net/IA_with_python/blob/main/video_5_bis.ipynb)
 * #### [video 6]()
 
 ------------------------------------------------------------------------------------------------
