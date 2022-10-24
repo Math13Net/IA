@@ -34,9 +34,18 @@ apprendre l'Intelligence Artificielle avec python d'après le livre de [Perry Xi
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
 
-## <a name="2"></a> 2. Numpy
+## <a name="2"></a> Numpy - Pandas - Matplotlib - Seaborn - scikit-learn - Kaggle
 
+### Numpy
 * [numpy - introduction](https://github.com/Math13Net/IA_with_python/blob/main/Machine%20Learnia_video_10_module_numpy.ipynb)
+* [numpy - introduction]()
+* [numpy - introduction]()
+
+### suite ...
+* []()
+* []()
+* []()
+
 
 
 ## <a name="3"></a> 3. Machine Learning
