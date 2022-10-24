@@ -3,6 +3,8 @@ apprendre l'Intelligence Artificielle avec python d'après le livre de [Perry Xi
 
 <a href="https://www.youtube.com/watch?v=gpJvvH8JFn4" target="_blank"><img src="https://github.com/Math13Net/NSI-premiere/blob/master/nsi.jpg" alt="NSI Première" width="120" height="90" border="10" /></a>
 
+[A Complete Guide to Better Jupyter Notebooks Formatting](https://medium.com/@vihasharma1099/a-complete-guide-to-beautify-your-jupyter-notebooks-d49e06fa8b3f)
+
 ## 🚀 [3. Machine Learning](#3)
 
 ## 🎃 [4. Deep Learning](#4)
