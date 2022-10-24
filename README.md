@@ -39,9 +39,9 @@ apprendre l'Intelligence Artificielle avec python d'après le livre de [Perry Xi
 ### Numpy
 * [numpy - introduction](https://github.com/Math13Net/IA_with_python/blob/main/Machine%20Learnia_video_10_11_12_module_numpy.ipynb)
 
+<p color="green">
 [video associée](https://youtu.be/NzDQTrqsxas)
-Text("Follow me on [Twitter](https://www.twitter.com/twannl)")
-    .tint(.red)
+</p>
 
 * [numpy - introduction]()
 * [numpy - introduction]()
