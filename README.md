@@ -42,7 +42,7 @@ apprendre l'Intelligence Artificielle avec python d'après le livre de [Perry Xi
 [video associée](https://youtu.be/NzDQTrqsxas)
 
 [normal link](https://www.google.com/)
-<a href="https://www.google.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
+<a href="https://www.google.com/" style="color: red; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
 
 * [numpy - introduction]()
 * [numpy - introduction]()
