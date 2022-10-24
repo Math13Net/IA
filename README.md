@@ -1,7 +1,7 @@
 # IA_with_python
 apprendre l'Intelligence Artificielle avec python d'après le livre de [Perry Xiao Wiley](https://www.amazon.com/Artificial-Intelligence-Programming-Python-Zero/dp/1119820863) (et bien d'autres liens)
 
-<a href="[https://www.youtube.com/watch?v=gpJvvH8JFn4](https://youtu.be/ad79nYk2keg)" target="_blank"><img src="https://github.com/Math13Net/IA_with_python/blob/main/artificial_intelligence.jpg" alt="NSI Première" width="240" height="90" border="10" /></a>
+<a href="[https://www.youtube.com/watch?v=gpJvvH8JFn4](https://youtu.be/ad79nYk2keg)" target="_blank"><img src="https://github.com/Math13Net/IA_with_python/blob/main/artificial_intelligence.jpg" alt="NSI Première" width="360" height="90" border="10" /></a>
 
 [A Complete Guide to Better Jupyter Notebooks Formatting](https://medium.com/@vihasharma1099/a-complete-guide-to-beautify-your-jupyter-notebooks-d49e06fa8b3f)
 
