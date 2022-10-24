@@ -7,6 +7,10 @@ apprendre l'Intelligence Artificielle avec python d'après le livre de [Perry Xi
   
 :frog: [A Complete Guide to Better Jupyter Notebooks Formatting](https://medium.com/@vihasharma1099/a-complete-guide-to-beautify-your-jupyter-notebooks-d49e06fa8b3f)
 
+## :snake: [1. initiation à python](https://github.com/Math13Net/SNT#cours)
+
+## :key: [2. module Data Science - Machine Learning - Deep Learning](#2)
+
 ## 🚀 [3. Machine Learning](#3)
 
 ## 🎃 [4. Deep Learning](#4)
@@ -29,6 +33,11 @@ apprendre l'Intelligence Artificielle avec python d'après le livre de [Perry Xi
 
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
+
+## <a name="2"></a> 2. Numpy
+
+* [numpy - introduction](https://github.com/Math13Net/IA_with_python/blob/main/Machine%20Learnia_video_10_module_numpy.ipynb)
+
 
 ## <a name="3"></a> 3. Machine Learning
 * ### [les exemples du livre](https://github.com/Math13Net/IA_avec_python/blob/main/chapitre%203%20-%20machine%20learning.ipynb)
