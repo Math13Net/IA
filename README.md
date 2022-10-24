@@ -11,7 +11,7 @@ apprendre l'Intelligence Artificielle avec python d'après le livre de [Perry Xi
 
 ## :snake: [1. initiation à python](https://github.com/Math13Net/SNT#cours)
 
-## :key: [2. module Data Science - Machine Learning - Deep Learning](#2)
+## :key: [2. module python pour : Data Science - Machine Learning - Deep Learning](#2)
 
 ## 🚀 [3. Machine Learning](#3)
 
