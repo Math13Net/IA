@@ -1,7 +1,7 @@
 <!-- IA introduction from math13net -->
 
 # IA_with_python
-apprendre l'Intelligence Artificielle avec python d'après le livre de [Perry Xiao Wiley](https://www.amazon.com/Artificial-Intelligence-Programming-Python-Zero/dp/1119820863) (et bien d'autres liens)
+apprendre l'Intelligence Artificielle
 
 <p align="center">
 <a href="[https://www.youtube.com/watch?v=gpJvvH8JFn4](https://youtu.be/ad79nYk2keg)" target="_blank"> <img src="https://github.com/Math13Net/IA_with_python/blob/main/artificial_intelligence.jpg" alt="NSI Première" width="600" height="150" border="10" /> </a>
@@ -53,7 +53,7 @@ apprendre l'Intelligence Artificielle avec python d'après le livre de [Perry Xi
 
 
 ## <a name="3"></a> 3. Machine Learning
-* ### [les exemples du livre](https://github.com/Math13Net/IA_avec_python/blob/main/chapitre%203%20-%20machine%20learning.ipynb)
+* ### [ex du livre avec python d'après le livre de Perry Xiao Wiley](https://github.com/Math13Net/IA_avec_python/blob/main/chapitre%203%20-%20machine%20learning.ipynb)
 * ### [différence entre SVM et NaiveBayes](https://www.analyticsvidhya.com/blog/2020/11/understanding-naive-bayes-svm-and-its-implementation-on-spam-sms/)
 * ### [sauver/charger un modèle d'1 fichier (éviter le ré-entrainement)](https://youtu.be/KfnhNlD8WZI)
 * ### [la fonction %store sous JPNB](https://ipython.readthedocs.io/en/stable/config/extensions/storemagic.html)
