@@ -29,8 +29,6 @@ apprendre l'Intelligence Artificielle
 
 ## 📜 []()
 
-## 🔑 [outils utilisés](#outil)
-
 ## 🔐 WARNING : document under LICENCE CC ![Licence CC](https://github.com/Math13Net/NSI-premiere/blob/master/licence%20CC.png)
 
 ------------------------------------------------------------------------------------------------
@@ -67,13 +65,6 @@ apprendre l'Intelligence Artificielle
 * #### [video 5 bis](https://github.com/Math13Net/IA_with_python/blob/main/video_5_bis.ipynb)
 * #### [video 6](https://github.com/Math13Net/IA_with_python/blob/main/video_6.ipynb)
 
-------------------------------------------------------------------------------------------------
-------------------------------------------------------------------------------------------------
-## <a name="outil"></a> Outils utilisés
-* ### [tuto numpy - partie 1](https://youtu.be/NzDQTrqsxas)
-* ### [tuto numpy - partie 2](https://youtu.be/vw4u9uBFFqU)
-* ### [tuto numpy - partie 3](https://youtu.be/RwFiNlL4Q8g)
-* ### [tuto numpy - partie 4](https://youtu.be/lIESSFHGalA)
 
 
 
