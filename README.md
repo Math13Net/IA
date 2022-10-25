@@ -34,7 +34,8 @@ apprendre l'Intelligence Artificielle
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
 
-## <a name="2"></a> Numpy - Pandas - Matplotlib - Seaborn - scikit-learn - Kaggle
+## <a name="2"></a> module python : DS ML et DL\
+Numpy - Pandas - Matplotlib - Seaborn - scikit-learn - Kaggle
 
 :key: [machinelearnia from Guillaume](https://machinelearnia.com/)
 
