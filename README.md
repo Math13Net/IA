@@ -37,8 +37,8 @@ apprendre l'Intelligence Artificielle
 ## <a name="2"></a> Numpy - Pandas - Matplotlib - Seaborn - scikit-learn - Kaggle
 
 ### Numpy
-* [numpy - 1](https://github.com/Math13Net/IA_with_python/blob/main/Machine%20Learnia_video_10_module_numpy.ipynb)```   ```[video associée](https://youtu.be/NzDQTrqsxas)
-* [numpy - 2]()&   [video associée]()
+* [numpy - 1](https://github.com/Math13Net/IA_with_python/blob/main/Machine%20Learnia_video_10_module_numpy.ipynb) &3 [video associée](https://youtu.be/NzDQTrqsxas)
+* [numpy - 2]() &3 [video associée]()
 
 ### suite ...
 * []()
