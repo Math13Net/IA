@@ -11,7 +11,7 @@ apprendre l'Intelligence Artificielle
 
 ## :snake: [1. initiation à python](https://github.com/Math13Net/SNT#cours)
 
-## :key: [2. module python : Data Science - Machine Learning - Deep Learning](#2)
+## :key: [2. module et BDD python : Data Science - Machine Learning - Deep Learning](#2)
 
 ## 🚀 [3. Machine Learning](#3)
 
@@ -34,8 +34,13 @@ apprendre l'Intelligence Artificielle
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
 
-## <a name="2"></a> module python : DS ML et DL\
-Numpy - Pandas - Matplotlib - Seaborn - scikit-learn - Kaggle
+## <a name="2"></a> module et BDD python : DS ML et DL
+* [numpy](#numpy)
+* [pandas](#pandas)
+* [matplotlib](#matplotlib)
+* [seaborn](#seaborn)
+* [scikit-learn](#scikit-learn)
+* [kaggle](#kaggle)
 
 :key: [machinelearnia from Guillaume](https://machinelearnia.com/)
 
