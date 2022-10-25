@@ -36,8 +36,8 @@ apprendre l'Intelligence Artificielle
 
 ## <a name="2"></a> module et BDD python : DS ML et DL
 * [numpy](#numpy)
-* [pandas](#pandas)
 * [matplotlib](#matplotlib)
+* [pandas](#pandas)
 * [seaborn](#seaborn)
 * [scikit-learn](#scikit-learn)
 * [kaggle](#kaggle)
@@ -50,7 +50,7 @@ apprendre l'Intelligence Artificielle
 * [numpy - 3](https://github.com/Math13Net/IA_with_python/blob/main/Machine%20Learnia_video_12_module_numpy.ipynb) &nbsp; &nbsp; &nbsp; [video associée](https://youtu.be/RwFiNlL4Q8g)
 * [numpy - 4](https://github.com/Math13Net/IA_with_python/blob/main/Machine%20Learnia_video_13_module_numpy.ipynb) &nbsp; &nbsp; &nbsp; [video associée](https://youtu.be/lIESSFHGalA)
 
-### <a name="pandas"></a> pandas
+### <a name="matplotlib"></a> matplotlib
 * []()
 * []()
 * []()
