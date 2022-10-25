@@ -38,7 +38,7 @@ apprendre l'Intelligence Artificielle
 
 ### Numpy
 * [numpy - 1](https://github.com/Math13Net/IA_with_python/blob/main/Machine%20Learnia_video_10_module_numpy.ipynb) &nbsp; &nbsp; &nbsp; [video associée](https://youtu.be/NzDQTrqsxas)
-* [numpy - 2]() &nbsp; &nbsp; &nbsp; [video associée]()
+* [numpy - 2](https://github.com/Math13Net/IA_with_python/blob/main/Machine%20Learnia_video_11_module_numpy.ipynb) &nbsp; &nbsp; &nbsp; [video associée](https://youtu.be/vw4u9uBFFqU)
 * [numpy - 3]() &nbsp; &nbsp; &nbsp; [video associée]()
 * [numpy - 4]() &nbsp; &nbsp; &nbsp; [video associée]()
 
