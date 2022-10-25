@@ -51,7 +51,7 @@ apprendre l'Intelligence Artificielle
 * [numpy - 4](https://github.com/Math13Net/IA_with_python/blob/main/Machine%20Learnia_video_13_module_numpy.ipynb) &nbsp; &nbsp; &nbsp; [video associée](https://youtu.be/lIESSFHGalA)
 
 ### <a name="matplotlib"></a> matplotlib
-* [matplotlib - 1]()
+* [matplotlib - 1](https://youtu.be/O_OeWxpnUc0)
 * [matplotlib - 2]()
 * [matplotlib - 3]()
 
