@@ -79,4 +79,5 @@ apprendre l'Intelligence Artificielle
 
 ### <a name="10"></a> 10.Ressource
 * ### [video inéressante](https://youtu.be/SGUCcjHTmGY)
+* ### [deep learning in motion - beau carnes](https://learning.oreilly.com/videos/grokking-deep-learning/10000MNLV201802/)
 
