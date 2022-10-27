@@ -27,7 +27,7 @@ apprendre l'Intelligence Artificielle
 
 ## 👷 []()
 
-## 📜 [10. ressources](#10)
+## 📜 [10. Ressource](#10)
 
 ## 🔐 WARNING : document under LICENCE CC ![Licence CC](https://github.com/Math13Net/NSI-premiere/blob/master/licence%20CC.png)
 
