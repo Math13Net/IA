@@ -27,7 +27,7 @@ apprendre l'Intelligence Artificielle
 
 ## 👷 []()
 
-## 📜 []()
+## 📜 [10. ressources](#10)
 
 ## 🔐 WARNING : document under LICENCE CC ![Licence CC](https://github.com/Math13Net/NSI-premiere/blob/master/licence%20CC.png)
 
@@ -77,4 +77,7 @@ apprendre l'Intelligence Artificielle
 
 
 
+### <a name="10"></a> 10.Ressource
+* ### [video inéressante](https://youtu.be/SGUCcjHTmGY)
+* ### [cours sur l'IA - si - ens paris saclay](https://eduscol.education.fr/sti/si-ens-paris-saclay/ressources_pedagogiques/introduction-a-lapprentissage-automatique#fichiers-liens)
 
