@@ -79,5 +79,5 @@ apprendre l'Intelligence Artificielle
 
 ### <a name="10"></a> 10.Ressource
 * ### [video inéressante](https://youtu.be/SGUCcjHTmGY)
-* ### [cours sur l'IA - si - ens paris saclay](https://eduscol.education.fr/sti/si-ens-paris-saclay/ressources_pedagogiques/introduction-a-lapprentissage-automatique#fichiers-liens)
+* ### [cours sur l'IA (intéressant mais assez dur)](https://eduscol.education.fr/sti/si-ens-paris-saclay/ressources_pedagogiques/introduction-a-lapprentissage-automatique#fichiers-liens)
 
