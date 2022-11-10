@@ -19,9 +19,9 @@ apprendre l'Intelligence Artificielle
 
 ## 🎃 [4. Deep Learning](#4)
 
-## ❤️ []()
+## ❤️ [5. Use your Raspberry Pi]()
 
-## 🌈 []()
+## 🌈 [6. Use your drone]()
 
 ## 🔑 []()
 
