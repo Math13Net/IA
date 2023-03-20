@@ -1,6 +1,6 @@
 <!-- IA introduction from math13net -->
 
-# IA_with_python
+# IA_with_python or julia
 apprendre l'Intelligence Artificielle
 
 <p align="center">
