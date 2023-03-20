@@ -13,6 +13,8 @@ apprendre l'Intelligence Artificielle
 
 ## :snake: [1. initiation à python](https://github.com/Math13Net/SNT#cours)
 
+## :snake: [1bis. initiation à julia](https://juliadatascience.io/)
+
 ## :key: [2. module et BDD python : Data Science - Machine Learning - Deep Learning](#2)
 
 ## 🚀 [3. Machine Learning](#3)
