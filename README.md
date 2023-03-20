@@ -25,7 +25,7 @@ apprendre l'Intelligence Artificielle
 
 ## 🌈 [6. Use your drone]()
 
-## 🔑 []()
+## 🔑 [7. Julia](#7)
 
 ## 🔥 []()
 
@@ -78,8 +78,13 @@ apprendre l'Intelligence Artificielle
 * #### [video 5 bis](https://github.com/Math13Net/IA_with_python/blob/main/video_5_bis.ipynb)
 * #### [video 6](https://github.com/Math13Net/IA_with_python/blob/main/video_6.ipynb)
 
-
-
+## <a name="7"></a> 7. Julia Programming
+* ### [home page julia](https://julialang.org/)
+* ### livres
+* #### [Julia for Data Science](https://juliadatascience.io/)
+* ### cours en vidéos
+* #### [introduction à Julia](https://www.youtube.com/live/uiQpwMQZBTA?feature=share)
+* #### [cours intro](https://www.youtube.com/live/4igzy3bGVkQ?feature=share) 
 
 ### <a name="10"></a> 10.Ressource
 * ### [video inéressante](https://youtu.be/SGUCcjHTmGY)
