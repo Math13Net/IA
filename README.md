@@ -72,7 +72,7 @@ apprendre l'Intelligence Artificielle
 
 
 * ### [cours vidéo Machine Learning - Deep Learning](https://www.youtube.com/c/MachineLearnia/featured) : gratuit et très bien fait
-1. [Video 1](https://youtu.be/XUFLq6dKQok)
+1. [Video 1 - repère historique - plan de la formation](https://youtu.be/XUFLq6dKQok)
 2. [Video 2](https://youtu.be/VlMm4VZ6lk4)
 3. [Video 3]()
     - complement 1
