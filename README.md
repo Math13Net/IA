@@ -72,15 +72,20 @@ apprendre l'Intelligence Artificielle
 * ### [les exemples du livre]()
 * ### [thème "Intelligence Artificielle" de Poitiers](https://ww2.ac-poitiers.fr/math/spip.php?article1201)
 * ### [cours vidéo Machine Learning - Deep Learning](https://www.youtube.com/c/MachineLearnia/featured) : gratuit et très bien fait
+1. [Video 1](https://youtu.be/XUFLq6dKQok)
+2. [Video 2]()
+3. [Video 3]()
+    - complement 1
+    - complement 2
+4. [Video 4]()
+
+
+
+
 * #### [video 5](https://github.com/Math13Net/IA_with_python/blob/main/video%205.ipynb)
 * #### [video 5 bis](https://github.com/Math13Net/IA_with_python/blob/main/video_5_bis.ipynb)
 * #### [video 6](https://github.com/Math13Net/IA_with_python/blob/main/video_6.ipynb)
-1. First item
-2. Second item
-3. Third item
-    - Indented item
-    - Indented item
-4. Fourth item
+
 
 
 
