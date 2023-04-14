@@ -84,9 +84,9 @@ apprendre l'Intelligence Artificielle
 
 
 * ### compléments
-* #### [thème "Intelligence Artificielle" de Poitiers](https://ww2.ac-poitiers.fr/math/spip.php?article1201)
-
-
+1. [thème "Intelligence Artificielle" de Poitiers](https://ww2.ac-poitiers.fr/math/spip.php?article1201)
+2. 
+3. 
 
 
 
