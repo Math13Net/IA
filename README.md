@@ -75,6 +75,16 @@ apprendre l'Intelligence Artificielle
 * #### [video 5](https://github.com/Math13Net/IA_with_python/blob/main/video%205.ipynb)
 * #### [video 5 bis](https://github.com/Math13Net/IA_with_python/blob/main/video_5_bis.ipynb)
 * #### [video 6](https://github.com/Math13Net/IA_with_python/blob/main/video_6.ipynb)
+1. First item
+2. Second item
+3. Third item
+    - Indented item
+    - Indented item
+4. Fourth item
+
+
+
+
 
 ## <a name="7"></a> 7. Julia Programming
 * ### [home page julia](https://julialang.org/)
