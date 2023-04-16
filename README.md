@@ -77,7 +77,7 @@ apprendre l'Intelligence Artificielle
 2. [Video 2 - le perceptron](https://youtu.be/VlMm4VZ6lk4)
 |First Image|Second Image|
 |:-:|:-:|
-|<img src="https://github.com/Math13Net/IA_with_python/blob/main/perceptron_2.png"  width="40%" height="20%">|<img src="https://github.com/Math13Net/IA_with_python/blob/main/perceptron_resumer.png"  width="40%" height="20%">|
+|![First Image](https://github.com/Math13Net/IA_with_python/blob/main/perceptron_2.png) width="40%" height="20%"|![Second Image](https://github.com/Math13Net/IA_with_python/blob/main/perceptron_resumer.png) width="40%" height="20%"|
 
 
 
