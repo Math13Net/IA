@@ -95,10 +95,8 @@ apprendre l'Intelligence Artificielle
 </p>
 
 5. [video 5 - programmation](https://youtu.be/5TpBe7KTAHE)
-<p float="left">
-  <img src="https://github.com/Math13Net/IA_with_python/blob/main/programmation_modele.png"  width="50%" height="25%">
-  [expériementation (jupyter notebook)](https://github.com/Math13Net/IA_with_python/blob/main/video%205.ipynb)
-</p>
+[expériementation (jupyter notebook)](https://github.com/Math13Net/IA_with_python/blob/main/video%205.ipynb)
+<img src="https://github.com/Math13Net/IA_with_python/blob/main/programmation_modele.png"  width="50%" height="25%">
 
 6. [video 5 bis](https://github.com/Math13Net/IA_with_python/blob/main/video_5_bis.ipynb)
 7. [video 6](https://github.com/Math13Net/IA_with_python/blob/main/video_6.ipynb)
