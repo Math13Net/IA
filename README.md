@@ -85,7 +85,9 @@ apprendre l'Intelligence Artificielle
 <img src="https://github.com/Math13Net/IA_with_python/blob/main/vecteur_2.png"  width="40%" height="20%">
 
 5. [video 5 - programmation](https://youtu.be/5TpBe7KTAHE)
+<p>
 <img src="https://github.com/Math13Net/IA_with_python/blob/main/programmation_modele.png"  width="50%" height="25%">
+</p>
 [notebook jupyter de l'experimentation](https://github.com/Math13Net/IA_with_python/blob/main/video%205.ipynb)
 
 6. [video 5 bis](https://github.com/Math13Net/IA_with_python/blob/main/video_5_bis.ipynb)
