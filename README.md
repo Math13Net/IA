@@ -89,9 +89,9 @@ apprendre l'Intelligence Artificielle
 <img src="https://github.com/Math13Net/IA_with_python/blob/main/math_resume.png"  width="35%" height="17%">
 
 4. [Video 4 - vectorialisation des équations pour application avec numpy](https://youtu.be/P6q_w-4H6pY)
-5. <p float="left">
-<img src="https://github.com/Math13Net/IA_with_python/blob/main/vecteur_1.png"  width="40%" height="20%">
-<img src="https://github.com/Math13Net/IA_with_python/blob/main/vecteur_2.png"  width="40%" height="20%">
+<p float="left">
+  <img src="https://github.com/Math13Net/IA_with_python/blob/main/vecteur_1.png"  width="40%" height="20%">
+  <img src="https://github.com/Math13Net/IA_with_python/blob/main/vecteur_2.png"  width="40%" height="20%">
 </p>
 
 5. [video 5 - programmation](https://youtu.be/5TpBe7KTAHE)
