@@ -75,6 +75,9 @@ apprendre l'Intelligence Artificielle
 1. [Video 1 - repère historique - plan de la formation](https://youtu.be/XUFLq6dKQok)
 2. [Video 2 - le perceptron](https://youtu.be/VlMm4VZ6lk4)
     - ![](https://github.com/Math13Net/IA_with_python/blob/main/resume_2.png = 100x20)
+<p align="center">
+<img src="[https://github.com/Math13Net/IA_with_python/blob/main/artificial_intelligence.jpg"](https://github.com/Math13Net/IA_with_python/blob/main/resume_2.png)" width="600" height="160" border="10" /> </a>
+</p>
 3. [Video 3 - formules mathématiques prouvées de la descente du gradient](https://youtu.be/XUFLq6dKQok)
     - [complement : synthèse]()
 4. [Video 4 - vectorialisation des équations pour application avec numpy](https://youtu.be/P6q_w-4H6pY)
