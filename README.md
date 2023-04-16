@@ -74,7 +74,7 @@ apprendre l'Intelligence Artificielle
 * ### [cours vidéo Machine Learning - Deep Learning](https://www.youtube.com/c/MachineLearnia/featured) : gratuit et très bien fait
 1. [Video 1 - repère historique - plan de la formation](https://youtu.be/XUFLq6dKQok)
 2. [Video 2 - le perceptron](https://youtu.be/VlMm4VZ6lk4)
-3. [Video 3 - formule mathématique prouvées de la descente du gradient](https://youtu.be/XUFLq6dKQok)
+3. [Video 3 - formules mathématiques prouvées de la descente du gradient](https://youtu.be/XUFLq6dKQok)
 4. [Video 4 - vectorialisation des équations pour application avec numpy](https://youtu.be/P6q_w-4H6pY)
 5. [video 5](https://youtu.be/5TpBe7KTAHE)
     - [complement 1 : exercice sous python](https://github.com/Math13Net/IA_with_python/blob/main/video%205.ipynb)
