@@ -75,14 +75,12 @@ apprendre l'Intelligence Artificielle
 1. [Video 1 - repère historique - plan de la formation](https://youtu.be/XUFLq6dKQok)
 
 2. [Video 2 - le perceptron](https://youtu.be/VlMm4VZ6lk4)
-|First Image|Second Image|
-|:-:|:-:|
-|![First Image](https://github.com/Math13Net/IA_with_python/blob/main/perceptron_2.png) width="40%" height="20%"|![Second Image](https://github.com/Math13Net/IA_with_python/blob/main/perceptron_resumer.png) width="40%" height="20%"|
-
-
-
-<img src="https://github.com/Math13Net/IA_with_python/blob/main/perceptron_2.png"  width="40%" height="20%">
-<img src="https://github.com/Math13Net/IA_with_python/blob/main/sigmoide_1.png"  width="40%" height="20%"><img src="https://github.com/Math13Net/IA_with_python/blob/main/sigmoide_2.png"  width="40%" height="20%">
+<p float="left">
+  <img src="https://github.com/Math13Net/IA_with_python/blob/main/perceptron_2.png"  width="40%" height="20%">
+  <img src="https://github.com/Math13Net/IA_with_python/blob/main/sigmoide_1.png"  width="40%" height="20%">
+  <img src="https://github.com/Math13Net/IA_with_python/blob/main/sigmoide_2.png"  width="40%" height="20%">
+</p>
+  
 <img src="https://github.com/Math13Net/IA_with_python/blob/main/bernoulli.png"  width="40%" height="20%">
 <img src="https://github.com/Math13Net/IA_with_python/blob/main/perceptron_resumer.png"  width="40%" height="20%">
 
