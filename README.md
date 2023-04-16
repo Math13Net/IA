@@ -90,7 +90,7 @@ apprendre l'Intelligence Artificielle
 
 6. [video 5 bis](https://github.com/Math13Net/IA_with_python/blob/main/video_5_bis.ipynb)
 7. [video 6](https://github.com/Math13Net/IA_with_python/blob/main/video_6.ipynb)
-
+[notebook jupyter de l'experimentation](https://github.com/Math13Net/IA_with_python/blob/main/video%205.ipynb)
 
 * ### compléments
 1. [thème "Intelligence Artificielle" de Poitiers](https://ww2.ac-poitiers.fr/math/spip.php?article1201)
