@@ -78,7 +78,7 @@ apprendre l'Intelligence Artificielle
 <img src="https://github.com/Math13Net/IA_with_python/blob/main/perceptron_2.png"  width="40%" height="20%">
 
 3. [Video 3 - formules mathématiques prouvées de la descente du gradient](https://youtu.be/XUFLq6dKQok)
-<img src="https://github.com/Math13Net/IA_with_python/blob/main/math_resume.png"  width="40%" height="20%">
+<img src="https://github.com/Math13Net/IA_with_python/blob/main/math_resume.png"  width="35%" height="17%">
 
 4. [Video 4 - vectorialisation des équations pour application avec numpy](https://youtu.be/P6q_w-4H6pY)
 <img src="https://github.com/Math13Net/IA_with_python/blob/main/vecteur_1.png"  width="40%" height="20%">
