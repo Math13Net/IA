@@ -78,7 +78,7 @@ apprendre l'Intelligence Artificielle
 
 
 ![resume]((https://github.com/Math13Net/IA_with_python/blob/main/resume_2.png)
-<img src="resume" alt= “” width="50" height="50">
+<img src="resume" alt= “” width="10" height="10">
 
 
 
