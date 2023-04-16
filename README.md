@@ -74,11 +74,11 @@ apprendre l'Intelligence Artificielle
 * ### [cours vidéo Machine Learning - Deep Learning](https://www.youtube.com/c/MachineLearnia/featured) : gratuit et très bien fait
 1. [Video 1 - repère historique - plan de la formation](https://youtu.be/XUFLq6dKQok)
 2. [Video 2 - le perceptron](https://youtu.be/VlMm4VZ6lk4)
-3. [Video 3]()
-    - complement 1
-    - complement 2
-4. [Video 4]()
-5. [video 5](https://github.com/Math13Net/IA_with_python/blob/main/video%205.ipynb)
+3. [Video 3](https://youtu.be/XUFLq6dKQok)
+4. [Video 4](https://youtu.be/P6q_w-4H6pY)
+5. [video 5](https://youtu.be/5TpBe7KTAHE)
+    - [complement 1 : exercice sous python](https://github.com/Math13Net/IA_with_python/blob/main/video%205.ipynb)
+
 6. [video 5 bis](https://github.com/Math13Net/IA_with_python/blob/main/video_5_bis.ipynb)
 7. [video 6](https://github.com/Math13Net/IA_with_python/blob/main/video_6.ipynb)
 
