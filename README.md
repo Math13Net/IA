@@ -77,12 +77,14 @@ apprendre l'Intelligence Artificielle
 2. [Video 2 - le perceptron](https://youtu.be/VlMm4VZ6lk4)
 <p float="left">
   <img src="https://github.com/Math13Net/IA_with_python/blob/main/perceptron_2.png"  width="40%" height="20%">
+  <img src="https://github.com/Math13Net/IA_with_python/blob/main/perceptron_resumer.png"  width="40%" height="20%">
+</p>
+<p float="left">
   <img src="https://github.com/Math13Net/IA_with_python/blob/main/sigmoide_1.png"  width="40%" height="20%">
   <img src="https://github.com/Math13Net/IA_with_python/blob/main/sigmoide_2.png"  width="40%" height="20%">
 </p>
-  
 <img src="https://github.com/Math13Net/IA_with_python/blob/main/bernoulli.png"  width="40%" height="20%">
-<img src="https://github.com/Math13Net/IA_with_python/blob/main/perceptron_resumer.png"  width="40%" height="20%">
+
 
 3. [Video 3 - formules mathématiques prouvées de la descente du gradient](https://youtu.be/JtmzCiVKAR4)
 <img src="https://github.com/Math13Net/IA_with_python/blob/main/math_resume.png"  width="35%" height="17%">
