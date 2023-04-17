@@ -25,7 +25,7 @@ apprendre l'Intelligence Artificielle
 
 ## 🔑 [7. Julia](#7)
 
-## 🔥 []()
+## 🔥 [8. Ressources intéressantes sur l'IA](#8)
 
 ## 👷 []()
 
@@ -120,7 +120,17 @@ apprendre l'Intelligence Artificielle
 * #### [introduction à Julia](https://www.youtube.com/live/uiQpwMQZBTA?feature=share)
 * #### [cours intro](https://www.youtube.com/live/4igzy3bGVkQ?feature=share) 
 
+
+## <a name="8"></a> ressources intéressnates en IA
+* [IA pour l'éducation](https://edunumrech.hypotheses.org/1970)
+* []()
+* []()
+
+
 ### <a name="10"></a> 10.Ressource
 * ### [video inéressante](https://youtu.be/SGUCcjHTmGY)
 * ### [deep learning in motion - beau carnes](https://learning.oreilly.com/videos/grokking-deep-learning/10000MNLV201802/)
+
+
+
 
