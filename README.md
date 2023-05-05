@@ -121,9 +121,9 @@ apprendre l'Intelligence Artificielle
 * #### [cours intro](https://www.youtube.com/live/4igzy3bGVkQ?feature=share) 
 
 
-## <a name="8"></a> 8. ressources intéressnates en IA
+## <a name="8"></a> 8. ressources intéressantes en IA
 * [IA pour l'éducation](https://edunumrech.hypotheses.org/1970)
-* []()
+* [livre : deep learning with python](https://github.com/fchollet/deep-learning-with-python-notebooks)
 * []()
 
 
