@@ -13,11 +13,13 @@ apprendre l'Intelligence Artificielle
 
 ## :snake: [1. initiation à python](https://github.com/Math13Net/SNT#cours)
 
-## :key: [2. module et BDD python : Data Science - Machine Learning - Deep Learning](#2)
+## 🎃 [4. Deep Learning](https://sites.google.com/view/introduction-deep-learning/accueil)
 
-## 🚀 [3. Machine Learning](#3)
 
-## 🎃 [4. Deep Learning](#4)
+
+## :key: [2. module et BDD python : Data Science - Machine Learning - Deep Learning]()
+
+## 🚀 [3. Machine Learning]()
 
 ## ❤️ [5. Use your Raspberry Pi]()
 
