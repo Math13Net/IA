@@ -23,11 +23,11 @@ apprendre l'Intelligence Artificielle
 
 ## 🌈 [6. Use your drone]()
 
-## 🔑 [7. Julia](#7)
+## 🔑 
 
 ## 🔥 [8. Ressources intéressantes sur l'IA](#8)
 
-## 👷 []()
+## 👷 
 
 ## 📜 [10. Ressource](#10)
 
@@ -112,19 +112,10 @@ apprendre l'Intelligence Artificielle
 
 
 
-## <a name="7"></a> 7. Julia Programming
-* ### [home page julia](https://julialang.org/)
-* ### livres
-* #### [Julia for Data Science](https://juliadatascience.io/)
-* ### cours en vidéos
-* #### [introduction à Julia](https://www.youtube.com/live/uiQpwMQZBTA?feature=share)
-* #### [cours intro](https://www.youtube.com/live/4igzy3bGVkQ?feature=share) 
-
-
 ## <a name="8"></a> 8. ressources intéressantes en IA
 * [IA pour l'éducation](https://edunumrech.hypotheses.org/1970)
 * [livre : deep learning with python](https://github.com/fchollet/deep-learning-with-python-notebooks)
-* []()
+* [mon site sur le deep  learning](https://sites.google.com/view/introduction-deep-learning/accueil)
 
 
 ### <a name="10"></a> 10.Ressource
