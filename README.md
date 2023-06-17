@@ -19,7 +19,7 @@ apprendre l'Intelligence Artificielle (pour l'instant focus sur le Deep Learning
 
 ## :key: []()
 
-## 🚀 [Machine Learning]()
+## 🚀 [my web site on Machine Learning](https://sites.google.com/view/intro-machine-learning/accueil)
 
 ## ❤️ [Use your Raspberry Pi]()
 
