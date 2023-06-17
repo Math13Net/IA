@@ -15,11 +15,11 @@ apprendre l'Intelligence Artificielle (pour l'instant focus sur le Deep Learning
 
 ## 🎃 [my website on Deep Learning](https://sites.google.com/view/introduction-deep-learning/accueil)
 
-## :snake: [initiation à python](https://github.com/Math13Net/SNT#cours)
+## 🚀 [my web site on Machine Learning](https://sites.google.com/view/intro-machine-learning/accueil)
+
+## :snake: [initiation à python](https://learnpython.org/)
 
 ## :key: []()
-
-## 🚀 [my web site on Machine Learning](https://sites.google.com/view/intro-machine-learning/accueil)
 
 ## ❤️ [Use your Raspberry Pi]()
 
