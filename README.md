@@ -25,8 +25,6 @@ apprendre l'Intelligence Artificielle (pour l'instant focus sur le Deep Learning
 
 ## 🌈 [Use your drone]()
 
-## 🔑 
-
 ## 🔥 []()
 
 ## 👷 
