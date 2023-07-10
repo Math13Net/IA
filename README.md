@@ -17,6 +17,8 @@ apprendre l'Intelligence Artificielle
 
 ## 🚀 [my web site on Machine Learning](https://sites.google.com/view/intro-machine-learning/accueil)
 
+## 🔥 [my web site on computer vision]()
+
 ## :snake: [initiation à python](https://learnpython.org/)
 
 ## :key: []()
@@ -25,7 +27,7 @@ apprendre l'Intelligence Artificielle
 
 ## 🌈 [Use your drone]()
 
-## 🔥 []()
+
 
 ## 👷 
 
