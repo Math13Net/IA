@@ -21,7 +21,7 @@ apprendre l'Intelligence Artificielle
 
 ## :snake: [initiation à python](https://learnpython.org/)
 
-## :key: [promt]()
+## :key: [promt engineering]()
 
 ## ❤️ [Use your Raspberry Pi]()
 
