@@ -23,7 +23,7 @@ apprendre l'Intelligence Artificielle
 
 ## :key: [promt engineering]()
 
-## ❤️ [Use your Raspberry Pi]()
+## ❤️ [Use your Raspberry Pi](https://github.com/Math13Net/raspberry_pi)
 
 ## 🌈 [Use your drone]()
 
