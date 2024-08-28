@@ -11,9 +11,9 @@ apprendre l'Intelligence Artificielle
 
 :+1:  [tricks for JYNB](https://vaticai.medium.com/the-most-important-jupyter-notebook-tricks-some-18779fd6479)
 
-## 🤖 [projet IA Lycée Jean Monnet](#IA)
+## 🤖 [projet IA seconde - Lycée Jean Monnet](#IA)
 
-## 🐍 [option Info Collège Rabelais](#pinfo)
+## 🐍 [option Info troisième - Collège Rabelais](#pinfo)
 
 ## 🎃 [my website on Deep Learning](https://sites.google.com/view/introduction-deep-learning/accueil)
 
@@ -31,13 +31,13 @@ apprendre l'Intelligence Artificielle
 
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
-## <a name="IA"></a> cours d'Intelligence Artificielle
+## <a name="IA"></a> cours d'Intelligence Artificielle - Seconde
 * ### []()
 * ### []()
 * ### []()
 
 ---------------------------------------------------------------------------------------------------------------------------
-## <a name="info"></a> cours d'Informatique
+## <a name="info"></a> cours d'Informatique - Troisième
 * ### []()
 * ### []()
 * ### []()
