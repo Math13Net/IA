@@ -57,7 +57,7 @@ apprendre l'Intelligence Artificielle - Collège et Lycée
 ## <a name="test"></a> Intelligence Artificielle - Seconde Lycée Jean Monnet
 
 ## 🌈 [cours Informatique](#coursInfo)
-[try this](https://experience-ai.org/fr-CA/)
+[présentation de l'option Informatique Troisième](https://github.com/Math13Net/IA/blob/main/Affiche-com-option-informatique%20-%20VF.pdf)
 
 ### 🔥 [fiches, résumés IA](#resumeInfo)
 
