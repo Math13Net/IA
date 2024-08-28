@@ -42,18 +42,15 @@ apprendre l'Intelligence Artificielle - Collège et Lycée
 ### 😍 [fun et culture IA](#funIA)
 
 ------------------------------------------------------------------------------------------------
-------------------------------------------------------------------------------------------------
-## <a name="coursIA"></a> cours Intelligence Artificielle
-* ### []()
-* ### []()
-* ### []()
+### <a name="coursIA"></a> cours Intelligence Artificielle
+* #### []()
+* #### []()
+* #### []()
 
 
 ---------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------
 ## <a name="info"></a> cours d'Informatique - Troisième
-------------------------------------------------------------------------------------------------
-------------------------------------------------------------------------------------------------
-## <a name="test"></a> Intelligence Artificielle - Seconde Lycée Jean Monnet
 [présentation de l'option Informatique Troisième](https://github.com/Math13Net/IA/blob/main/Affiche-com-option-informatique%20-%20VF.pdf)
 
 ### 🌈 [cours Informatique](#coursInfo)
