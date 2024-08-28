@@ -63,7 +63,7 @@ apprendre l'Intelligence Artificielle - Collège et Lycée
 
 ### 🚀 [devoirs, jeu IA](#devoirInfoA)
 
-### 👋 [programmeInfo](https://github.com/Math13Net/IA/blob/main/Referentiel-option-info-Version-Enseignant.pdf)
+### 👋 [programme officiel Informatique Troisième](https://github.com/Math13Net/IA/blob/main/Referentiel-option-info-Version-Enseignant.pdf)
 
 ### 😍 [fun et culture IA](#funInfo)
 
