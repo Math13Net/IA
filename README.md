@@ -1,7 +1,7 @@
 <!-- IA - from math13net -->
 
 # AI - Artificial Intelligence in High School
-apprendre l'Intelligence Artificielle
+apprendre l'Intelligence Artificielle - Collège et Lycée
 
 <p align="center">
 <a href="[https://www.youtube.com/watch?v=gpJvvH8JFn4](https://youtu.be/ad79nYk2keg)" target="_blank"> <img src="https://github.com/Math13Net/IA_with_python/blob/main/artificial_intelligence.jpg" alt="NSI Première" width="600" height="160" border="10" /> </a>
