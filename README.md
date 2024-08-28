@@ -1,4 +1,4 @@
-<!-- IA - Deep Learning from math13net -->
+<!-- IA - from math13net -->
 
 # IA - Deep Learning with python
 apprendre l'Intelligence Artificielle
