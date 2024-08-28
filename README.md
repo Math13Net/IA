@@ -13,7 +13,7 @@ apprendre l'Intelligence Artificielle - Collège et Lycée
 
 ## 🤖 [projet IA seconde - Lycée Jean Monnet](#test)
 
-## 🐍 [option Info troisième - Collège Rabelais](#info)
+## 🐍 [option Informatique troisième - Collège Rabelais](#info)
 
 ## 🎃 [my website on Deep Learning](https://sites.google.com/view/introduction-deep-learning/accueil)
 
