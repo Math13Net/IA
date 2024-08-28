@@ -65,7 +65,7 @@ apprendre l'Intelligence Artificielle - Collège et Lycée
 ### 😍 [fun et culture Informatique](#funInfo)
 
 ------------------------------------------------------------------------------------------------
-### <a name="coursIA"></a> cours Intelligence Artificielle
+### <a name="coursIA"></a> cours Informatique
 * #### []()
 * #### []()
 * #### []()
