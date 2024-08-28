@@ -51,7 +51,7 @@ apprendre l'Intelligence Artificielle - Collège et Lycée
 
 ---------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------
-## <a name="info"></a> cours d'Informatique - Troisième
+## <a name="info"></a> cours d'Informatique - Troisième Collège Rabelais
 [présentation de l'option Informatique Troisième](https://github.com/Math13Net/IA/blob/main/Affiche-com-option-informatique%20-%20VF.pdf)
 
 ### 🌈 [cours Informatique](#coursInfo)
