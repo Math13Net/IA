@@ -56,13 +56,13 @@ apprendre l'Intelligence Artificielle - Collège et Lycée
 
 ### 🌈 [cours Informatique](#coursInfo)
 
-### 🔥 [fiches, résumés IA](#resumeInfo)
+### 🔥 [fiches, résumés Inormatique](#resumeInfo)
 
-### 🚀 [devoirs, jeu IA](#devoirInfoA)
+### 🚀 [devoirs, jeu Informatique](#devoirInfoA)
 
 ### 👋 [programme officiel Informatique Troisième](https://github.com/Math13Net/IA/blob/main/Referentiel-option-info-Version-Enseignant.pdf)
 
-### 😍 [fun et culture IA](#funInfo)
+### 😍 [fun et culture Informatique](#funInfo)
 
 ---------------------------------------------------------------------------------------------------------------------------
 ## 👷 
