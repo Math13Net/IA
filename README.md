@@ -56,14 +56,14 @@ apprendre l'Intelligence Artificielle - Collège et Lycée
 ------------------------------------------------------------------------------------------------
 ## <a name="test"></a> Intelligence Artificielle - Seconde Lycée Jean Monnet
 
-## 🌈 [cours Iformatique](#coursInfo)
+## 🌈 [cours Informatique](#coursInfo)
 [try this](https://experience-ai.org/fr-CA/)
 
 ### 🔥 [fiches, résumés IA](#resumeInfo)
 
 ### 🚀 [devoirs, jeu IA](#devoirInfoA)
 
-### 👋 [programme IA](programmeInfo)
+### 👋 [programmeInfo](https://github.com/Math13Net/IA/blob/main/Referentiel-option-info-Version-Enseignant.pdf)
 
 ### 😍 [fun et culture IA](#funInfo)
 
