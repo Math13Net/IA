@@ -32,6 +32,7 @@ apprendre l'Intelligence Artificielle - Collège et Lycée
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
 ## <a name="test"></a> Intelligence Artificielle - Seconde Lycée Jean Monnet
+[présentation du projet Classe Pilote IA Seconde](https://drive.google.com/file/d/1Rn8rN9D5sBpBzfXM9uXVPpzg3eAucphi/view?usp=sharing)
 
 ### 🌈 [cours IA](#coursIA)
 
