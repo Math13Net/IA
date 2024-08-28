@@ -98,16 +98,16 @@ apprendre l'Intelligence Artificielle - Collège et Lycée
 
 ------------------------------------------------------------------------------------------------
 ### <a name="#devoirIA"></a> devoirs, jeu Informatique
-* #### []()
-* #### []()
-* #### []()
-
-------------------------------------------------------------------------------------------------
-### <a name=""></a> fun et culture Informatique
 * #### [concours Castor Informatique](https://castor-informatique.fr/)
 * #### [concours Alkindi](https://concours-alkindi.fr/#/)
 * #### [concours Calendrier de l'Avent - Décembre de chaque année - Mondial](https://adventofcode.com/)
 
+------------------------------------------------------------------------------------------------
+### <a name=""></a> fun et culture Informatique
+
+* #### []()
+* #### []()
+* #### []()
 
 
 
