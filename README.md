@@ -62,7 +62,7 @@ apprendre l'Intelligence Artificielle - Collège et Lycée
 
 ------------------------------------------------------------------------------------------------
 ### <a name=""></a> fun et culture IA
-* #### []()
+* #### [cours IA Rasberry Pi gratuit](https://experience-ai.org/fr-CA)
 * #### []()
 * #### []()
 
