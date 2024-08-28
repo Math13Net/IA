@@ -1,6 +1,6 @@
 <!-- IA - from math13net -->
 
-# IA - Deep Learning with python
+# AI - Artificial Intelligence in High School
 apprendre l'Intelligence Artificielle
 
 <p align="center">
