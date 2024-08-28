@@ -40,13 +40,11 @@ apprendre l'Intelligence Artificielle - Collège et Lycée
 
 ### 🚀 [devoirs, jeu IA](#devoirIA)
 
-### 👋 [programme IA](programmeIA)
-
 ### 😍 [fun et culture IA](#funIA)
 
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
-## <a name="coursIA"></a> cours Intelligence Artificielle 2024/2025
+## <a name="coursIA"></a> cours Intelligence Artificielle
 * ### []()
 * ### []()
 * ### []()
@@ -54,9 +52,20 @@ apprendre l'Intelligence Artificielle - Collège et Lycée
 
 ---------------------------------------------------------------------------------------------------------------------------
 ## <a name="info"></a> cours d'Informatique - Troisième
-* ### []()
-* ### []()
-* ### []()
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+## <a name="test"></a> Intelligence Artificielle - Seconde Lycée Jean Monnet
+
+## 🌈 [cours Iformatique](#coursInfo)
+[try this](https://experience-ai.org/fr-CA/)
+
+### 🔥 [fiches, résumés IA](#resumeInfo)
+
+### 🚀 [devoirs, jeu IA](#devoirInfoA)
+
+### 👋 [programme IA](programmeInfo)
+
+### 😍 [fun et culture IA](#funInfo)
 
 ---------------------------------------------------------------------------------------------------------------------------
 ## 👷 
