@@ -33,19 +33,20 @@ apprendre l'Intelligence Artificielle - Collège et Lycée
 ------------------------------------------------------------------------------------------------
 ## <a name="test"></a> Intelligence Artificielle - Seconde Lycée Jean Monnet
 
-### 🔥 [fiches, résumés](#resume)
+## 🌈 [cours IA](#coursIA)
+[try this](https://experience-ai.org/fr-CA/)
 
-### 🚀 [devoirs,  bac blanc, jeu ...](#devoir)
+### 🔥 [fiches, résumés IA](#resumeIA)
 
-### 👋 [programme officiel TS](https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/90/7/spe246_annexe_1158907.pdf)
+### 🚀 [devoirs, jeu IA](#devoirIA)
 
-### 🌐 [modalité bac TS](https://eduscol.education.fr/pid23233-cid58536/serie-s-a-partir-de-2013.html)
+### 👋 [programme IA](programmeIA)
 
-### 😍 [fun et culture](#fun)
+### 😍 [fun et culture IA](#funIA)
 
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
-## <a name="cours"></a> cours Intelligence Artificielle 2024/2025
+## <a name="coursIA"></a> cours Intelligence Artificielle 2024/2025
 * ### []()
 * ### []()
 * ### []()
