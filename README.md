@@ -64,6 +64,10 @@ apprendre l'Intelligence Artificielle - Collège et Lycée
 ### <a name="funIA"></a> fun et culture IA
 * #### [cours IA Raspberry Pi gratuit](https://experience-ai.org/fr-CA)
 * #### [mon site DeepLearning](https://sites.google.com/view/introduction-deep-learning/accueil)
+* #### exo7 - plein de ressources, par exemple :
+* ##### [exo7 - deeplearning - livre gratuit](http://exo7.emath.fr/cours/livre-deepmath.pdf)
+* ##### [exo7 - chatgp 1 - livre gratuit](http://exo7.emath.fr/cours/chatgpt1.pdf)
+* ##### [exo7 - chatgpt 2 - livre gratuit](http://exo7.emath.fr/cours/chatgpt2.pdf)
 * #### []()
 
 
