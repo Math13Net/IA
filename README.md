@@ -93,7 +93,7 @@ apprendre l'Intelligence Artificielle - Collège et Lycée
 ------------------------------------------------------------------------------------------------
 ### <a name="resumeInfo"></a> fiches Résumés Informatique
 * #### [un petit cours python orienté physique chimie](https://ww2.ac-poitiers.fr/sc_phys/sites/sc_phys/IMG/pdf/python_cours.pdf)
-* #### []()
+* #### [un glossaire python accessible](https://ent2d.ac-bordeaux.fr/disciplines/mathematiques/wp-content/uploads/sites/3/2018/05/Travail-dans-l%C3%A9diteur-et-la-console-avec-glossaire-PYTHON.pdf)
 * #### []()
 
 ------------------------------------------------------------------------------------------------
