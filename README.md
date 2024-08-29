@@ -78,7 +78,7 @@ apprendre l'Intelligence Artificielle - Collège et Lycée
 
 ### 🔥 [fiches, résumés Inormatique](#resumeInfo)
 
-### 🚀 [devoirs, jeu Informatique](#devoirInfoA)
+### 🚀 [devoirs, jeu Informatique](#devoirInfo)
 
 ### 👋 [programme officiel Informatique Troisième](https://github.com/Math13Net/IA/blob/main/Referentiel-option-info-Version-Enseignant.pdf)
 
@@ -91,8 +91,8 @@ apprendre l'Intelligence Artificielle - Collège et Lycée
 * #### []()
 
 ------------------------------------------------------------------------------------------------
-### <a name="devoirIA"></a> fiches Résumés Informatique
-* #### [glossaire IA](https://experience-ai.org/fr-CA/drive_resources/52.pdf)
+### <a name="resumeInfo"></a> fiches Résumés Informatique
+* #### [un petit cours python orienté physique chimie](https://ww2.ac-poitiers.fr/sc_phys/sites/sc_phys/IMG/pdf/python_cours.pdf)
 * #### []()
 * #### []()
 
