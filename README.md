@@ -63,7 +63,7 @@ apprendre l'Intelligence Artificielle - Collège et Lycée
 ------------------------------------------------------------------------------------------------
 ### <a name="funIA"></a> fun et culture IA
 * #### [cours IA Raspberry Pi gratuit](https://experience-ai.org/fr-CA)
-* #### []()
+* #### [mon site DeepLearning](https://sites.google.com/view/introduction-deep-learning/accueil)
 * #### []()
 
 
