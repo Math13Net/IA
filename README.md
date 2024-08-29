@@ -105,9 +105,10 @@ apprendre l'Intelligence Artificielle - Collège et Lycée
 ------------------------------------------------------------------------------------------------
 ### <a name="funInfo"></a> fun et culture Informatique
 
-* #### []()
-* #### []()
-* #### []()
+* #### [exo7 - scratch collègue - livre gratuit](http://exo7.emath.fr/cours/livre-scratch3.pdf)
+* #### [exo7 - python lycée 1 - livre gratuit](http://exo7.emath.fr/cours/livre-python1.pdf)
+* #### [exo7 - python lycée 2 - livre gratuit](http://exo7.emath.fr/cours/livre-python2.pdf)
+* #### [exo7 - ]()
 
 
 
