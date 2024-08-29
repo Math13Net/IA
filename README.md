@@ -49,7 +49,7 @@ apprendre l'Intelligence Artificielle - Collège et Lycée
 * #### []()
 
 ------------------------------------------------------------------------------------------------
-### <a name="devoirIA"></a> fiches Résumés IA
+### <a name="resumeIA"></a> fiches Résumés IA
 * #### [glossaire IA](https://experience-ai.org/fr-CA/drive_resources/52.pdf)
 * #### []()
 * #### []()
@@ -61,7 +61,7 @@ apprendre l'Intelligence Artificielle - Collège et Lycée
 * #### []()
 
 ------------------------------------------------------------------------------------------------
-### <a name=""></a> fun et culture IA
+### <a name="funIA"></a> fun et culture IA
 * #### [cours IA Raspberry Pi gratuit](https://experience-ai.org/fr-CA)
 * #### []()
 * #### []()
@@ -103,7 +103,7 @@ apprendre l'Intelligence Artificielle - Collège et Lycée
 * #### [concours Calendrier de l'Avent - Décembre de chaque année - Mondial](https://adventofcode.com/)
 
 ------------------------------------------------------------------------------------------------
-### <a name=""></a> fun et culture Informatique
+### <a name="funInfo"></a> fun et culture Informatique
 
 * #### []()
 * #### []()
