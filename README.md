@@ -45,8 +45,11 @@ apprendre l'Intelligence Artificielle - Collège et Lycée
 ------------------------------------------------------------------------------------------------
 ### <a name="coursIA"></a> cours Intelligence Artificielle
 * #### [1. Vittascience Entrainement IA](https://fr.vittascience.com/ia/)
-  penser à vous connecter
-* #### [Activité 1 : ]()
+  * #### penser à vous connecter
+  * #### [découverte de l'interface IA](https://youtu.be/EDtvcOl_PhA?si=a80PlABj7h2XFQXB)
+  * ####
+  * ####
+  * #### [Activité 1 : ]()
 * #### []()
 * #### []()
 
