@@ -35,7 +35,8 @@ apprendre l'Intelligence Artificielle - Collège et Lycée
 vugarisons l'IA pour mieux vivre avec :
 - programmer l'IA
 - utiliser l'IA
-- réflexion : éthique et impact sociétal
+- réflexion : éthique et impact sociétal  
+[un observatoire de l'IA](https://oecd.ai/fr/)
 
 ### 🌈 [cours IA](#coursIA)
 
