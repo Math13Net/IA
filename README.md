@@ -35,8 +35,7 @@ apprendre l'Intelligence Artificielle - Collège et Lycée
 vugarisons l'IA pour mieux vivre avec :
 - comment ça marche ?
 - comment l'utiliser ?
-- éthique et impact sociétal  
-au boulot ! 
+- éthique et impact sociétal
 
 ### 🌈 [cours IA](#coursIA)
 
