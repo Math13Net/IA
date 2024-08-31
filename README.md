@@ -89,6 +89,7 @@ vugarisons l'IA pour mieux vivre avec :
 * #### [AI ressources for kids](https://machinelearningforkids.co.uk/#!/links)
 * #### [AI google labs](https://labs.google/)
 * #### [cours complet IA](https://www.youtube.com/playlist?list=PLEiEAq2VkUULyr_ftxpHB6DumOq1Zz2hq)
+* #### [TEDx talks on AI 2023](https://www.youtube.com/playlist?list=PLKBgoiYx5ZZptG_RYgFQTKNis2wVIh1-y)
 
 
 
