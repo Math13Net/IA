@@ -44,7 +44,7 @@ apprendre l'Intelligence Artificielle - Collège et Lycée
 
 ------------------------------------------------------------------------------------------------
 ### <a name="coursIA"></a> cours Intelligence Artificielle
-* ####
+* #### introduction à l'IA
  * ##### [c'est quoi l'IA ?](https://youtu.be/uMzUB89uSxU?si=NqzFMur1ZDDqW5HU)
  * ##### [l'avenir de l'IA en 2024](https://youtu.be/dv9q7Ema40k?si=HLZdofD1sNwTN9jA)
  * ##### [zoom sur les réseaux de neurones]()
@@ -80,6 +80,7 @@ apprendre l'Intelligence Artificielle - Collège et Lycée
 * ##### [exo7 - deeplearning - livre gratuit](http://exo7.emath.fr/cours/livre-deepmath.pdf)
 * ##### [exo7 - chatgp 1 - livre gratuit](http://exo7.emath.fr/cours/chatgpt1.pdf)
 * ##### [exo7 - chatgpt 2 - livre gratuit](http://exo7.emath.fr/cours/chatgpt2.pdf)
+* #### [réseaux de neurones - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 * #### [AI ressources for kids](https://machinelearningforkids.co.uk/#!/links)
 * #### [AI google labs](https://labs.google/)
 * #### [cours complet IA](https://www.youtube.com/playlist?list=PLEiEAq2VkUULyr_ftxpHB6DumOq1Zz2hq)
