@@ -31,7 +31,7 @@ apprendre l'Intelligence Artificielle - Collège et Lycée
 
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
-## <a name="test"></a> IA - Lycée Jean Monnet - [projet IA Seconde](https://docs.google.com/presentation/d/1a9L_dPGqSO18K5SkD16tiMjoMZ79Rc7YC3s0ZCz0fY4/edit?usp=sharing)  
+## <a name="test"></a> [notre projet IA Seconde - Lycée Jean Monnet](https://docs.google.com/presentation/d/1a9L_dPGqSO18K5SkD16tiMjoMZ79Rc7YC3s0ZCz0fY4/edit?usp=sharing)  
 vugarisons l'IA pour mieux vivre avec :
 - programmer l'IA
 - utiliser l'IA
