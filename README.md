@@ -31,12 +31,11 @@ apprendre l'Intelligence Artificielle - Collège et Lycée
 
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
-## <a name="test"></a> Intelligence Artificielle - Seconde Lycée Jean Monnet
-[présentation du projet IA Seconde](https://docs.google.com/presentation/d/1a9L_dPGqSO18K5SkD16tiMjoMZ79Rc7YC3s0ZCz0fY4/edit?usp=sharing)  
+## <a name="test"></a> Intelligence Artificielle - Seconde Lycée Jean Monnet [présentation du projet IA Seconde](https://docs.google.com/presentation/d/1a9L_dPGqSO18K5SkD16tiMjoMZ79Rc7YC3s0ZCz0fY4/edit?usp=sharing)  
 vugarisons l'IA pour mieux vivre avec :
 - comment ça marche ?
 - comment l'utiliser ?
-- éthique et impact sociétal
+- éthique et impact sociétal  
 au boulot ! 
 
 ### 🌈 [cours IA](#coursIA)
