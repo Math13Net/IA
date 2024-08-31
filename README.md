@@ -47,18 +47,18 @@ vugarisons l'IA pour mieux vivre avec :
 
 ------------------------------------------------------------------------------------------------
 ### <a name="coursIA"></a> cours Intelligence Artificielle
-* #### introduction à l'IA
- * ##### [c'est quoi l'IA ?](https://youtu.be/uMzUB89uSxU?si=NqzFMur1ZDDqW5HU)
- * ##### [l'avenir de l'IA en 2024](https://youtu.be/dv9q7Ema40k?si=HLZdofD1sNwTN9jA)
- * ##### [AI Is Dangerous, but Not for the Reasons You Think](https://youtu.be/eXdVDhOGqoE?si=uIv3MVQ5Ex26AiMj)
-* #### [1. Vittascience Entrainement IA](https://fr.vittascience.com/ia/)
-  * ##### penser à vous connecter - [livret d'activités](https://fr.vittascience.com/learn/tutorial.php?id=403%2Fguide-d-utilisation-intelligence-artificielle-version-micro-bit)
-  * ##### [découverte de l'interface IA](https://youtu.be/EDtvcOl_PhA?si=a80PlABj7h2XFQXB)
-  * ##### [tutoriel IA Adacraft](https://youtu.be/pnXHdTjZOak?si=WS0kg9-1EtZkYFxs)
-  * ##### [tutoriel IA réseaux de neurones](https://youtu.be/LWr9RS0y6r4?si=1KE5tDIAaAK5bqc5)
-  * ##### [classification image](https://fr.vittascience.com/ia/images.php)
-  * ##### [classification son](https://fr.vittascience.com/ia/sound.php)
-  * ##### [classification posture](https://fr.vittascience.com/ia/posture.php)
+* #### 1. introduction à l'IA
+ * ##### [1.1. c'est quoi l'IA ?](https://youtu.be/uMzUB89uSxU?si=NqzFMur1ZDDqW5HU)
+ * ##### [1.2. l'avenir de l'IA en 2024](https://youtu.be/dv9q7Ema40k?si=HLZdofD1sNwTN9jA)
+ * ##### [1.3. AI Is Dangerous, but Not for the Reasons You Think](https://youtu.be/eXdVDhOGqoE?si=uIv3MVQ5Ex26AiMj)
+* #### [2. Vittascience Entrainement IA](https://fr.vittascience.com/ia/)
+  * ##### 2.0. penser à vous connecter - [livret d'activités](https://fr.vittascience.com/learn/tutorial.php?id=403%2Fguide-d-utilisation-intelligence-artificielle-version-micro-bit)
+  * ##### [2.1. découverte de l'interface IA](https://youtu.be/EDtvcOl_PhA?si=a80PlABj7h2XFQXB)
+  * ##### [2.2. tutoriel IA Adacraft](https://youtu.be/pnXHdTjZOak?si=WS0kg9-1EtZkYFxs)
+  * ##### [2.3. tutoriel IA réseaux de neurones](https://youtu.be/LWr9RS0y6r4?si=1KE5tDIAaAK5bqc5)
+  * ##### [2.4. classification image](https://fr.vittascience.com/ia/images.php)
+  * ##### [2.5. classification son](https://fr.vittascience.com/ia/sound.php)
+  * ##### [2.6. classification posture](https://fr.vittascience.com/ia/posture.php)
   * ##### []()
 * #### []()
 * #### []()
