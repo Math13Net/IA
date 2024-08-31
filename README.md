@@ -68,7 +68,7 @@ apprendre l'Intelligence Artificielle - Collège et Lycée
 * ##### [exo7 - deeplearning - livre gratuit](http://exo7.emath.fr/cours/livre-deepmath.pdf)
 * ##### [exo7 - chatgp 1 - livre gratuit](http://exo7.emath.fr/cours/chatgpt1.pdf)
 * ##### [exo7 - chatgpt 2 - livre gratuit](http://exo7.emath.fr/cours/chatgpt2.pdf)
-* #### []()
+* #### [AI ressources for kids](https://machinelearningforkids.co.uk/#!/links)
 
 
 
