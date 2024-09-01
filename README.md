@@ -62,8 +62,21 @@ vugarisons l'IA pour mieux vivre avec :
   * ##### [2.5. classification son](https://fr.vittascience.com/ia/sound.php)
   * ##### [2.6. classification posture](https://fr.vittascience.com/ia/posture.php)
   * ##### []()
-* #### []()
-* #### []()
+* #### [3. Raspberry Pi]()
+* #### [4. AlphaAI Robot](https://learningrobots.ai/)
+ * ##### [Notice robot](https://www.robot-advance.com/pj-notice-robot-alphai-fr-394.pdf) 
+ * ##### [Documentation Logiciel](https://www.robot-advance.com/pj-documentation-logiciel-alphai-fr-395.pdf)
+ * ##### [Activités](https://learningrobots.ai/les-ressources/)
+ * ##### []()
+ * ##### []()
+ * ##### []()
+ * ##### []()
+ * ##### []()
+ * ##### []()
+
+
+
+
 
 ------------------------------------------------------------------------------------------------
 ### <a name="resumeIA"></a> fiches Résumés IA
