@@ -50,13 +50,13 @@ vugarisons l'IA pour mieux vivre avec :
 ### <a name="coursIA"></a> cours Intelligence Artificielle
 
 #### 1. introduction à l'IA
-##### 1.1. [c'est quoi l'IA ?](https://youtu.be/uMzUB89uSxU?si=NqzFMur1ZDDqW5HU)
-##### [1.2. l'avenir de l'IA en 2024](https://youtu.be/dv9q7Ema40k?si=HLZdofD1sNwTN9jA)
-##### [1.3. AI Is Dangerous, but Not for the Reasons You Think](https://youtu.be/eXdVDhOGqoE?si=uIv3MVQ5Ex26AiMj)
-##### [ai carbon footprint](https://www.piie.com/blogs/realtime-economics/2024/ais-carbon-footprint-appears-likely-be-alarming)
+* ##### 1.1. [c'est quoi l'IA ?](https://youtu.be/uMzUB89uSxU?si=NqzFMur1ZDDqW5HU)
+* ##### [1.2. l'avenir de l'IA en 2024](https://youtu.be/dv9q7Ema40k?si=HLZdofD1sNwTN9jA)
+* ##### [1.3. AI Is Dangerous, but Not for the Reasons You Think](https://youtu.be/eXdVDhOGqoE?si=uIv3MVQ5Ex26AiMj)
+* ##### [ai carbon footprint](https://www.piie.com/blogs/realtime-economics/2024/ais-carbon-footprint-appears-likely-be-alarming)
 
 #### [2. Vittascience Entrainement IA](https://fr.vittascience.com/ia/)
-##### 2.0. penser à vous connecter - [livret d'activités](https://fr.vittascience.com/learn/tutorial.php?id=403%2Fguide-d-utilisation-intelligence-artificielle-version-micro-bit)
+  * ##### 2.0. penser à vous connecter - [livret d'activités](https://fr.vittascience.com/learn/tutorial.php?id=403%2Fguide-d-utilisation-intelligence-artificielle-version-micro-bit)
   * ##### [2.1. découverte de l'interface IA](https://youtu.be/EDtvcOl_PhA?si=a80PlABj7h2XFQXB)
   * ##### [2.2. tutoriel IA Adacraft](https://youtu.be/pnXHdTjZOak?si=WS0kg9-1EtZkYFxs)
   * ##### [2.3. tutoriel IA réseaux de neurones](https://youtu.be/LWr9RS0y6r4?si=1KE5tDIAaAK5bqc5)
@@ -64,7 +64,9 @@ vugarisons l'IA pour mieux vivre avec :
   * ##### [2.5. classification son](https://fr.vittascience.com/ia/sound.php)
   * ##### [2.6. classification posture](https://fr.vittascience.com/ia/posture.php)
   * ##### []()
+
 * #### [3. Raspberry Pi]()
+
 * #### [4. AlphaAI Robot](https://learningrobots.ai/)
  * ##### [Notice robot](https://www.robot-advance.com/pj-notice-robot-alphai-fr-394.pdf) 
  * ##### [Documentation Logiciel](https://www.robot-advance.com/pj-documentation-logiciel-alphai-fr-395.pdf)
