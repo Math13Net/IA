@@ -63,6 +63,8 @@ vugarisons l'IA pour mieux vivre avec :
   * ##### 2.4. [classification image](https://fr.vittascience.com/ia/images.php)
   * ##### 2.5. [classification son](https://fr.vittascience.com/ia/sound.php)
   * ##### 2.6. [classification posture](https://fr.vittascience.com/ia/posture.php)
+  * ##### [générateur de texte Vittascience](https://fr.vittascience.com/ia/text.php)
+  * ##### [générateur d'image Vittascience](https://fr.vittascience.com/ia/image-generate.php)
 
 * #### 3. [Raspberry Pi](https://www.raspberrypi.com/)
   * ##### [Documentation Matériel](https://www.raspberrypi.com/documentation/)
