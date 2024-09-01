@@ -82,7 +82,7 @@ vugarisons l'IA pour mieux vivre avec :
   * #### []()
 
 ------------------------------------------------------------------------------------------------
-### <a name="#devoirIA"></a> devoirs, jeu IA
+### <a name="#devoirIA"></a> devoir, projet , jeu IA
   * #### []()
   * #### []()
   * #### []()
@@ -133,7 +133,7 @@ vugarisons l'IA pour mieux vivre avec :
 * #### []()
 
 ------------------------------------------------------------------------------------------------
-### <a name="#devoirIA"></a> devoirs, jeu Informatique
+### <a name="#devoirIA"></a> devoirs, projet, jeu Informatique
 * #### [concours Castor Informatique](https://castor-informatique.fr/)
 * #### [concours Alkindi](https://concours-alkindi.fr/#/)
 * #### [concours Calendrier de l'Avent - Décembre de chaque année - Mondial](https://adventofcode.com/)
