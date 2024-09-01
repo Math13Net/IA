@@ -106,7 +106,7 @@ vugarisons l'IA pour mieux vivre avec :
 
 ------------------------------------------------------------------------------------------------
 ### <a name="#coolIA"></a> cool AI
-  * #### [math gpt](https://math-gpt.org/)
+  * #### [math gpt](https://math-gpt.org/) - encore une marge de manoeuvre mais ça va être vite corrigé : [sujet](https://github.com/Math13Net/IA/blob/main/2024-09-01_17h01_55.png) - [réponse](https://github.com/Math13Net/IA/blob/main/2024-09-01_17h05_35.png)
   * #### []()
   * #### []()
 
