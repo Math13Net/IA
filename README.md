@@ -108,7 +108,7 @@ vugarisons l'IA pour mieux vivre avec :
 ### <a name="#coolIA"></a> cool AI
   * #### [math gpt](https://math-gpt.org/)
     * ##### doit encore progresser : [sujet](https://github.com/Math13Net/IA/blob/main/2024-09-01_17h01_55.png) - [réponse](https://github.com/Math13Net/IA/blob/main/2024-09-01_17h05_35.png)
-    * ##### assez rigolo sur un ex dur :  [sujet](https://github.com/Math13Net/IA/blob/main/2024-09-01_17h20_04.png) - [réponse 1](https://github.com/Math13Net/IA/blob/main/2024-09-01_17h31_01.png) - [réponse 2](https://github.com/Math13Net/IA/blob/main/2024-09-01_17h31_36.png) - [réponse 3](https://github.com/Math13Net/IA/blob/main/2024-09-01_17h31_44.png) - [réponse 4](https://github.com/Math13Net/IA/blob/main/2024-09-01_17h32_25.png)
+    * ##### assez rigolo sur un ex dur :  [sujet](https://github.com/Math13Net/IA/blob/main/2024-09-01_17h20_04.png) - [réponse 1](https://github.com/Math13Net/IA/blob/main/2024-09-01_17h31_01.png) - [réponse 2](https://github.com/Math13Net/IA/blob/main/2024-09-01_17h31_36.png) - [réponse 3](https://github.com/Math13Net/IA/blob/main/2024-09-01_17h31_44.png) - [réponse 4](https://github.com/Math13Net/IA/blob/main/2024-09-01_17h32_25.png) - [vidéo solution - la vraie](https://youtu.be/bOXCLR3Wric?si=s-sLAXNHfYCmEQNE)
   * #### []()
   * #### []()
 
@@ -128,7 +128,7 @@ vugarisons l'IA pour mieux vivre avec :
 ### 😍 [fun et culture Informatique](#funInfo)
 
 ------------------------------------------------------------------------------------------------
-### <a name="coursIA"></a> cours Informatique
+### <a name="coursInfo"></a> cours Informatique
 * #### []()
 * #### []()
 * #### []()
@@ -140,7 +140,7 @@ vugarisons l'IA pour mieux vivre avec :
 * #### []()
 
 ------------------------------------------------------------------------------------------------
-### <a name="#devoirIA"></a> devoirs, projet, jeu Informatique
+### <a name="#devoirInfo"></a> devoirs, projet, jeu Informatique
 * #### [concours Castor Informatique](https://castor-informatique.fr/)
 * #### [concours Alkindi](https://concours-alkindi.fr/#/)
 * #### [concours Calendrier de l'Avent - Décembre de chaque année - Mondial](https://adventofcode.com/)
