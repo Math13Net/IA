@@ -69,7 +69,7 @@ vugarisons l'IA pour mieux vivre avec :
   * ##### [Projet](https://projects.raspberrypi.org/fr-FR/projects)
   * ##### [Procjet (y en a plus en anglais)](https://projects.raspberrypi.org/en/projects)
 
-#### [4. AlphaAI Robot](https://learningrobots.ai/)
+* #### [4. AlphaAI Robot](https://learningrobots.ai/)
   * ##### [Notice robot](https://www.robot-advance.com/pj-notice-robot-alphai-fr-394.pdf)
   * ##### [Documentation Logiciel](https://www.robot-advance.com/pj-documentation-logiciel-alphai-fr-395.pdf)
   * ##### [Activités](https://learningrobots.ai/les-ressources/)
