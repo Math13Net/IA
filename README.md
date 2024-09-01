@@ -64,12 +64,12 @@ vugarisons l'IA pour mieux vivre avec :
   * ##### 2.5. [classification son](https://fr.vittascience.com/ia/sound.php)
   * ##### 2.6. [classification posture](https://fr.vittascience.com/ia/posture.php)
 
-* #### 3. [Raspberry Pi](https://www.raspberrypi.com/)
+#### 3. [Raspberry Pi](https://www.raspberrypi.com/)
   * ##### [Documentation Matériel](https://www.raspberrypi.com/documentation/)
   * ##### [Projet](https://projects.raspberrypi.org/fr-FR/projects)
   * ##### [Procjet (y en a plus en anglais)](https://projects.raspberrypi.org/en/projects)
 
-* #### [4. AlphaAI Robot](https://learningrobots.ai/)
+#### [4. AlphaAI Robot](https://learningrobots.ai/)
   * ##### [Notice robot](https://www.robot-advance.com/pj-notice-robot-alphai-fr-394.pdf)
   * ##### [Documentation Logiciel](https://www.robot-advance.com/pj-documentation-logiciel-alphai-fr-395.pdf)
   * ##### [Activités](https://learningrobots.ai/les-ressources/)
@@ -89,8 +89,8 @@ vugarisons l'IA pour mieux vivre avec :
 
 ------------------------------------------------------------------------------------------------
 ### <a name="funIA"></a> fun et culture IA
-* #### [cours IA Raspberry Pi gratuit](https://experience-ai.org/fr-CA)
-* #### [mon site DeepLearning](https://sites.google.com/view/introduction-deep-learning/accueil)
+  * #### [cours IA Raspberry Pi gratuit](https://experience-ai.org/fr-CA)
+  * #### [mon site DeepLearning](https://sites.google.com/view/introduction-deep-learning/accueil)
 * #### exo7 - plein de ressources, par exemple :
 * ##### [exo7 - deeplearning - livre gratuit](http://exo7.emath.fr/cours/livre-deepmath.pdf)
 * ##### [exo7 - chatgp 1 - livre gratuit](http://exo7.emath.fr/cours/chatgpt1.pdf)
