@@ -56,8 +56,8 @@ vugarisons l'IA pour mieux vivre avec :
   * ##### [ai carbon footprint](https://www.piie.com/blogs/realtime-economics/2024/ais-carbon-footprint-appears-likely-be-alarming)
 
 #### 2. [Vittascience Entrainement IA](https://fr.vittascience.com/ia/)
-  * ##### 2.0. penser à vous connecter - [livret d'activités](https://fr.vittascience.com/learn/tutorial.php?id=403%2Fguide-d-utilisation-intelligence-artificielle-version-micro-bit)
-  * ##### 2.1. [découverte de l'interface IA](https://youtu.be/EDtvcOl_PhA?si=a80PlABj7h2XFQXB)
+##### 2.0. penser à vous connecter - [livret d'activités](https://fr.vittascience.com/learn/tutorial.php?id=403%2Fguide-d-utilisation-intelligence-artificielle-version-micro-bit)
+##### 2.1. [découverte de l'interface IA](https://youtu.be/EDtvcOl_PhA?si=a80PlABj7h2XFQXB)
   * ##### 2.2. [tutoriel IA Adacraft](https://youtu.be/pnXHdTjZOak?si=WS0kg9-1EtZkYFxs)
   * ##### 2.3. [tutoriel IA réseaux de neurones](https://youtu.be/LWr9RS0y6r4?si=1KE5tDIAaAK5bqc5)
   * ##### 2.4. [classification image](https://fr.vittascience.com/ia/images.php)
@@ -91,17 +91,17 @@ vugarisons l'IA pour mieux vivre avec :
 ### <a name="funIA"></a> fun et culture IA
   * #### [cours IA Raspberry Pi gratuit](https://experience-ai.org/fr-CA)
   * #### [mon site DeepLearning](https://sites.google.com/view/introduction-deep-learning/accueil)
-* #### exo7 - plein de ressources, par exemple :
-* ##### [exo7 - deeplearning - livre gratuit](http://exo7.emath.fr/cours/livre-deepmath.pdf)
-* ##### [exo7 - chatgp 1 - livre gratuit](http://exo7.emath.fr/cours/chatgpt1.pdf)
-* ##### [exo7 - chatgpt 2 - livre gratuit](http://exo7.emath.fr/cours/chatgpt2.pdf)
-* #### [réseaux de neurones - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
-* #### [AI ressources for kids](https://machinelearningforkids.co.uk/#!/links)
-* #### [AI google labs](https://labs.google/)
-* #### [cours complet IA](https://www.youtube.com/playlist?list=PLEiEAq2VkUULyr_ftxpHB6DumOq1Zz2hq)
-* #### [TEDx talks on AI 2023](https://www.youtube.com/playlist?list=PLKBgoiYx5ZZptG_RYgFQTKNis2wVIh1-y)
-* #### [AI tools map for teachers](https://medium.com/@LaurenceHolt/a-map-of-generative-ai-for-education-6598e85a172e)
-* #### [1 IA gratuite par jour](https://www.uneiaparjour.fr/)
+  * #### exo7 - plein de ressources, par exemple :
+  * ##### [exo7 - deeplearning - livre gratuit](http://exo7.emath.fr/cours/livre-deepmath.pdf)
+  * ##### [exo7 - chatgp 1 - livre gratuit](http://exo7.emath.fr/cours/chatgpt1.pdf)
+  * ##### [exo7 - chatgpt 2 - livre gratuit](http://exo7.emath.fr/cours/chatgpt2.pdf)
+  * #### [réseaux de neurones - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+  * #### [AI ressources for kids](https://machinelearningforkids.co.uk/#!/links)
+  * #### [AI google labs](https://labs.google/)
+  * #### [cours complet IA](https://www.youtube.com/playlist?list=PLEiEAq2VkUULyr_ftxpHB6DumOq1Zz2hq)
+  * #### [TEDx talks on AI 2023](https://www.youtube.com/playlist?list=PLKBgoiYx5ZZptG_RYgFQTKNis2wVIh1-y)
+  * #### [AI tools map for teachers](https://medium.com/@LaurenceHolt/a-map-of-generative-ai-for-education-6598e85a172e)
+  * #### [1 IA gratuite par jour](https://www.uneiaparjour.fr/)
 
 
 
