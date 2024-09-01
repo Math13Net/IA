@@ -65,27 +65,27 @@ vugarisons l'IA pour mieux vivre avec :
   * ##### 2.6. [classification posture](https://fr.vittascience.com/ia/posture.php)
 
 * #### 3. [Raspberry Pi](https://www.raspberrypi.com/)
- * ##### [Documentation Matériel](https://www.raspberrypi.com/documentation/)
- * ##### [Projet](https://projects.raspberrypi.org/fr-FR/projects)
- * ##### [Procjet (y en a plus en anglais)](https://projects.raspberrypi.org/en/projects)
+  * ##### [Documentation Matériel](https://www.raspberrypi.com/documentation/)
+  * ##### [Projet](https://projects.raspberrypi.org/fr-FR/projects)
+  * ##### [Procjet (y en a plus en anglais)](https://projects.raspberrypi.org/en/projects)
 
 * #### [4. AlphaAI Robot](https://learningrobots.ai/)
- * ##### [Notice robot](https://www.robot-advance.com/pj-notice-robot-alphai-fr-394.pdf) 
- * ##### [Documentation Logiciel](https://www.robot-advance.com/pj-documentation-logiciel-alphai-fr-395.pdf)
- * ##### [Activités](https://learningrobots.ai/les-ressources/)
+  * ##### [Notice robot](https://www.robot-advance.com/pj-notice-robot-alphai-fr-394.pdf)
+  * ##### [Documentation Logiciel](https://www.robot-advance.com/pj-documentation-logiciel-alphai-fr-395.pdf)
+  * ##### [Activités](https://learningrobots.ai/les-ressources/)
 
 
 ------------------------------------------------------------------------------------------------
 ### <a name="resumeIA"></a> fiches Résumés IA
-* #### [glossaire IA](https://experience-ai.org/fr-CA/drive_resources/52.pdf)
-* #### []()
-* #### []()
+  * #### [glossaire IA](https://experience-ai.org/fr-CA/drive_resources/52.pdf)
+  * #### []()
+  * #### []()
 
 ------------------------------------------------------------------------------------------------
 ### <a name="#devoirIA"></a> devoirs, jeu IA
-* #### []()
-* #### []()
-* #### []()
+  * #### []()
+  * #### []()
+  * #### []()
 
 ------------------------------------------------------------------------------------------------
 ### <a name="funIA"></a> fun et culture IA
