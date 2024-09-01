@@ -49,11 +49,11 @@ vugarisons l'IA pour mieux vivre avec :
 ------------------------------------------------------------------------------------------------
 ### <a name="coursIA"></a> cours Intelligence Artificielle
 
-#### 1. introduction à l'IA
+* #### 1. introduction à l'IA
   * ##### 1.1. [c'est quoi l'IA ?](https://youtu.be/uMzUB89uSxU?si=NqzFMur1ZDDqW5HU)
   * ##### [1.2. l'avenir de l'IA en 2024](https://youtu.be/dv9q7Ema40k?si=HLZdofD1sNwTN9jA)
   * ##### [1.3. AI Is Dangerous, but Not for the Reasons You Think](https://youtu.be/eXdVDhOGqoE?si=uIv3MVQ5Ex26AiMj)
-  * ##### [ai carbon footprint](https://www.piie.com/blogs/realtime-economics/2024/ais-carbon-footprint-appears-likely-be-alarming)  
+  * ##### [ai carbon footprint](https://www.piie.com/blogs/realtime-economics/2024/ais-carbon-footprint-appears-likely-be-alarming)
 
 * #### 2. [Vittascience Entrainement IA](https://fr.vittascience.com/ia/)
   * ##### 2.0. penser à vous connecter - [livret d'activités](https://fr.vittascience.com/learn/tutorial.php?id=403%2Fguide-d-utilisation-intelligence-artificielle-version-micro-bit)
@@ -64,7 +64,7 @@ vugarisons l'IA pour mieux vivre avec :
   * ##### 2.5. [classification son](https://fr.vittascience.com/ia/sound.php)
   * ##### 2.6. [classification posture](https://fr.vittascience.com/ia/posture.php)
 
-#### 3. [Raspberry Pi](https://www.raspberrypi.com/)
+* #### 3. [Raspberry Pi](https://www.raspberrypi.com/)
   * ##### [Documentation Matériel](https://www.raspberrypi.com/documentation/)
   * ##### [Projet](https://projects.raspberrypi.org/fr-FR/projects)
   * ##### [Procjet (y en a plus en anglais)](https://projects.raspberrypi.org/en/projects)
