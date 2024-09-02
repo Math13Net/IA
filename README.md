@@ -137,7 +137,7 @@ vugarisons l'IA pour mieux vivre avec :
 
 ------------------------------------------------------------------------------------------------
 ### <a name="coursInfo"></a> cours Informatique
-* #### []()
+* #### [notebook jupyter : initiation python](https://github.com/Math13Net/IA/blob/main/Inititiation_Python.ipynb)
 * #### []()
 * #### []()
 
