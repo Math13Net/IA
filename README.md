@@ -110,7 +110,9 @@ vugarisons l'IA pour mieux vivre avec :
 
 ------------------------------------------------------------------------------------------------
 ### <a name="#coolIA"></a> cool AI
-  * #### [collab : un outil incontournable](https://colab.research.google.com/)
+  * #### outils IA pour les pro :
+    * [collab : un outil incontournable](https://colab.research.google.com/)
+    * [anaconda : l'idéal pour construire des tutos sympa](https://anaconda.org/)
   * #### [math gpt](https://math-gpt.org/)
     * ##### doit encore progresser (mais ça devrait pas trainer ...) : [sujet](https://github.com/Math13Net/IA/blob/main/2024-09-01_17h01_55.png) - [réponse](https://github.com/Math13Net/IA/blob/main/2024-09-01_17h05_35.png)
     * ##### assez rigolo sur un ex dur :  [sujet](https://github.com/Math13Net/IA/blob/main/2024-09-01_17h20_04.png) - [réponse 1](https://github.com/Math13Net/IA/blob/main/2024-09-01_17h31_01.png) - [réponse 2](https://github.com/Math13Net/IA/blob/main/2024-09-01_17h31_36.png) - [réponse 3](https://github.com/Math13Net/IA/blob/main/2024-09-01_17h31_44.png) - [réponse 4](https://github.com/Math13Net/IA/blob/main/2024-09-01_17h32_25.png) - [vidéo solution - la vraie](https://youtu.be/bOXCLR3Wric?si=s-sLAXNHfYCmEQNE)
