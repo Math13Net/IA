@@ -46,6 +46,8 @@ vugarisons l'IA pour mieux vivre avec :
 
 ### 😍 [fun et culture IA](#funIA)
 
+### 🤩​ [cool IA](#coolIA)
+
 ------------------------------------------------------------------------------------------------
 ### <a name="coursIA"></a> cours Intelligence Artificielle
 
