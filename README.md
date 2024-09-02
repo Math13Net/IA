@@ -118,6 +118,7 @@ vugarisons l'IA pour mieux vivre avec :
     * ##### assez rigolo sur un ex dur :  [sujet](https://github.com/Math13Net/IA/blob/main/2024-09-01_17h20_04.png) - [réponse 1](https://github.com/Math13Net/IA/blob/main/2024-09-01_17h31_01.png) - [réponse 2](https://github.com/Math13Net/IA/blob/main/2024-09-01_17h31_36.png) - [réponse 3](https://github.com/Math13Net/IA/blob/main/2024-09-01_17h31_44.png) - [réponse 4](https://github.com/Math13Net/IA/blob/main/2024-09-01_17h32_25.png) - [vidéo solution - la vraie](https://youtu.be/bOXCLR3Wric?si=s-sLAXNHfYCmEQNE)
   * #### [à tester : simulation d'une voiture autonome](https://medium.com/@marklpd/simulating-an-autonomous-car-with-a-simple-neural-network-a307f0dec837)
   * #### [qualité mondiale de l'air - source 1](https://waqi.info/) - [qualité mondiale de l'air - source 2](https://www.iqair.com/earth?srsltid=AfmBOorr1rd3fjAawsPH0NbgBwvq7_Fk3C0rRdR7UExhfsKaFXRDQ6hE)
+  * #### [yolo explained](https://medium.com/towards-data-science/yolo-intuitively-and-exhaustively-explained-83143925c7a9)
 
 ---------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------
