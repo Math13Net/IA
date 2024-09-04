@@ -107,7 +107,7 @@ vugarisons l'IA pour mieux vivre avec :
   * #### [AI tools map for teachers](https://medium.com/@LaurenceHolt/a-map-of-generative-ai-for-education-6598e85a172e)
   * #### [1 IA gratuite par jour](https://www.uneiaparjour.fr/)
   * #### [festival film IA Montpellier](https://www.aiff-montpellier.com/)
-  * #### [observatoire IA](https://ai-watch.ec.europa.eu/index_en)
+  * #### [observatoire IA - commission européenne](https://ai-watch.ec.europa.eu/index_en)
 
 ------------------------------------------------------------------------------------------------
 ### <a name="#coolIA"></a> cool AI
