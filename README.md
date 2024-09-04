@@ -109,6 +109,7 @@ vugarisons l'IA pour mieux vivre avec :
   * #### [festival film IA Montpellier](https://www.aiff-montpellier.com/)
   * #### [observatoire IA - commission européenne](https://ai-watch.ec.europa.eu/index_en)
   * #### [aide à la revherche : ressources IA](https://lascientotheque.shinyapps.io/ai-resources/)
+  * #### [IA Arte](https://www.arte.tv/fr/videos/RC-023929/intelligence-artificielle-le-dessous-des-images/)
 
 ------------------------------------------------------------------------------------------------
 ### <a name="#coolIA"></a> cool AI
