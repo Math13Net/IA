@@ -108,6 +108,7 @@ vugarisons l'IA pour mieux vivre avec :
   * #### [1 IA gratuite par jour](https://www.uneiaparjour.fr/)
   * #### [festival film IA Montpellier](https://www.aiff-montpellier.com/)
   * #### [observatoire IA - commission européenne](https://ai-watch.ec.europa.eu/index_en)
+  * #### [aide à la revherche : ressources IA](https://lascientotheque.shinyapps.io/ai-resources/)
 
 ------------------------------------------------------------------------------------------------
 ### <a name="#coolIA"></a> cool AI
