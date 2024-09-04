@@ -119,6 +119,7 @@ vugarisons l'IA pour mieux vivre avec :
   * #### [à tester : simulation d'une voiture autonome](https://medium.com/@marklpd/simulating-an-autonomous-car-with-a-simple-neural-network-a307f0dec837)
   * #### [qualité mondiale de l'air - source 1](https://waqi.info/) - [qualité mondiale de l'air - source 2](https://www.iqair.com/earth?srsltid=AfmBOorr1rd3fjAawsPH0NbgBwvq7_Fk3C0rRdR7UExhfsKaFXRDQ6hE)
   * #### [yolo explained](https://medium.com/towards-data-science/yolo-intuitively-and-exhaustively-explained-83143925c7a9)
+  * #### [yolo on raspberry pi _ à tester](https://medium.com/@bergamasco.florian/yolo-raspberry-pi-how-to-create-a-smart-camera-3f7783420751)
 
 ---------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------
