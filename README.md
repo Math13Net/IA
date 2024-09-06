@@ -114,7 +114,7 @@ vugarisons l'IA pour mieux vivre avec :
   * #### [IA Arte](https://www.arte.tv/fr/videos/RC-023929/intelligence-artificielle-le-dessous-des-images/)
   * #### [source intéressante](https://algorithmwatch.org/en/)
   * #### [plaisir d'apprendre avec l'IA - à tester](https://www.leplaisirdapprendre.com/portfolio/utiliser-lintelligence-artificielle-en-classe/)
-  * #### [lebigdata](https://www.lebigdata.fr/intelligence-artificielle)
+  * #### []()
 
 ------------------------------------------------------------------------------------------------
 ### <a name="#coolIA"></a> cool AI
@@ -130,12 +130,13 @@ vugarisons l'IA pour mieux vivre avec :
   * #### [yolo on raspberry pi - à tester](https://medium.com/@bergamasco.florian/yolo-raspberry-pi-how-to-create-a-smart-camera-3f7783420751)
 
 ------------------------------------------------------------------------------------------------
-### <a name="#ethiqueIA"></a> IA et étique ... est-ce possible ... il va bien falloir mais c'est pas facile ...
+### <a name="#ethiqueIA"></a> IA et éthique ... est-ce possible ... il va bien falloir mais c'est pas facile ...
   * #### articles autour d'évènements intéressants - IA et éthique :
-    * []()
-    * []()
+    * [rapide et efficace !?](https://www.lebigdata.fr/google-comite-ethique-ia-dissolution)
+    * [fired ... bye bye](https://www.lebigdata.fr/google-ia-ethique-renvoyee)
+    * [de quoi parlons nous ?](https://www.lebigdata.fr/quels-sont-les-principaux-defis-ethiques-lies-a-lutilisation-de-lia-dans-la-redaction)
   * #### site, ouvrage, ressource : matières à réfléchir - IA et éthique
-    * []()
+    * [lebigdata](https://www.lebigdata.fr/intelligence-artificielle)
     * []()
   * #### vidéos intéressantes sur le sujet :
     * []()
