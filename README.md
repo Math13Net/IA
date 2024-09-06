@@ -112,6 +112,7 @@ vugarisons l'IA pour mieux vivre avec :
   * #### [IA Arte](https://www.arte.tv/fr/videos/RC-023929/intelligence-artificielle-le-dessous-des-images/)
   * #### [source intéressante](https://algorithmwatch.org/en/)
   * #### [plaisir d'apprendre avec l'IA - à tester](https://www.leplaisirdapprendre.com/portfolio/utiliser-lintelligence-artificielle-en-classe/)
+  * #### [lebigdata](https://www.lebigdata.fr/intelligence-artificielle)
 
 ------------------------------------------------------------------------------------------------
 ### <a name="#coolIA"></a> cool AI
