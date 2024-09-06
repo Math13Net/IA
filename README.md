@@ -110,6 +110,7 @@ vugarisons l'IA pour mieux vivre avec :
   * #### [observatoire IA - commission européenne](https://ai-watch.ec.europa.eu/index_en)
   * #### [aide à la revherche : ressources IA](https://lascientotheque.shinyapps.io/ai-resources/)
   * #### [IA Arte](https://www.arte.tv/fr/videos/RC-023929/intelligence-artificielle-le-dessous-des-images/)
+  * #### [source intéressante](https://algorithmwatch.org/en/)
 
 ------------------------------------------------------------------------------------------------
 ### <a name="#coolIA"></a> cool AI
