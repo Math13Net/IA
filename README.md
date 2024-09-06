@@ -138,9 +138,9 @@ vugarisons l'IA pour mieux vivre avec :
     * [Le Parcours Éthique de ChatGPT](https://medium.com/ai-short-articles/cr%C3%A9ativit%C3%A9-d%C3%A9bloqu%C3%A9e-le-parcours-%C3%A9thique-de-chatgpt-%C3%A0-l%C3%A8re-des-droits-d-auteur-e982d8b2e58b)
   * #### site, ouvrage, ressource : matières à réfléchir - IA et éthique
     * [lebigdata](https://www.lebigdata.fr/intelligence-artificielle)
-    * []()
+    * [Business Data Ethics](https://link.springer.com/book/10.1007/978-3-031-21491-2)
   * #### vidéos intéressantes sur le sujet :
-    * []()
+    * [Enseigner l'éthique de l'IA au secondaire - j'adore les vidéos canadiennes !](https://youtu.be/Qa1B2utcGng?si=SxX-wRZeXd6s-2hs)
     * []()
   * #### activités ou production d'élèves :
     * []()
