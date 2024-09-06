@@ -48,6 +48,8 @@ vugarisons l'IA pour mieux vivre avec :
 
 ### 🤩​ [cool IA](#coolIA)
 
+### 🤝​ [éthique IA](#ethiqueIA)
+
 ------------------------------------------------------------------------------------------------
 ### <a name="coursIA"></a> cours Intelligence Artificielle
 
@@ -126,6 +128,21 @@ vugarisons l'IA pour mieux vivre avec :
   * #### [qualité mondiale de l'air - source 1](https://waqi.info/) - [qualité mondiale de l'air - source 2](https://www.iqair.com/earth?srsltid=AfmBOorr1rd3fjAawsPH0NbgBwvq7_Fk3C0rRdR7UExhfsKaFXRDQ6hE)
   * #### [yolo explained](https://medium.com/towards-data-science/yolo-intuitively-and-exhaustively-explained-83143925c7a9)
   * #### [yolo on raspberry pi - à tester](https://medium.com/@bergamasco.florian/yolo-raspberry-pi-how-to-create-a-smart-camera-3f7783420751)
+
+------------------------------------------------------------------------------------------------
+### <a name="#ethiqueIA"></a> IA et étique ... est-ce possible ... il va bien falloir mais c'est pas facile ...
+  * #### articles autour d'évènements intéressants - IA et éthique :
+    * []()
+    * []()
+  * #### site, ouvrage, ressource : matières à réfléchir - IA et éthique
+    * []()
+    * []()
+  * #### vidéos intéressantes sur le sujet :
+    * []()
+    * []()
+  * #### activités ou production d'élèves :
+    * []()
+    * []()
 
 ---------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------
