@@ -38,20 +38,20 @@ vugarisons l'IA pour mieux vivre avec :
 - réflexion : éthique et impact sociétal  
 [un observatoire de l'IA](https://oecd.ai/fr/)
 
-### 🌈 [cours IA](#coursIA)
+### 🌈 [cours IA](#coursia)
 
-### 🔥 [fiches, résumés IA](#resumeIA)
+### 🔥 [fiches, résumés IA](#resumeia)
 
-### 🚀 [devoirs, jeu IA](#devoirIA)
+### 🚀 [devoirs, jeu IA](#devoiria)
 
-### 😍 [fun et culture IA](#funIA)
+### 😍 [fun et culture IA](#funia)
 
-### 🤩​ [cool IA](#coolIA)
+### 🤩​ [cool IA](#coolia)
 
-### 🤝​ [éthique IA](#ethiqueIA)
+### 🤝​ [éthique IA](#ethiqueia)
 
 ------------------------------------------------------------------------------------------------
-### <a name="coursIA"></a> cours Intelligence Artificielle
+### <a name="coursia"></a> cours Intelligence Artificielle
 
 * #### 1. introduction à l'IA
   * ##### 1.1. [c'est quoi l'IA ?](https://youtu.be/uMzUB89uSxU?si=NqzFMur1ZDDqW5HU)
@@ -82,19 +82,19 @@ vugarisons l'IA pour mieux vivre avec :
 
 
 ------------------------------------------------------------------------------------------------
-### <a name="resumeIA"></a> fiches Résumés IA
+### <a name="resumeia"></a> fiches Résumés IA
   * #### [glossaire IA](https://experience-ai.org/fr-CA/drive_resources/52.pdf)
   * #### []()
   * #### []()
 
 ------------------------------------------------------------------------------------------------
-### <a name="devoirIA"></a> devoir, projet , jeu IA
+### <a name="devoiria"></a> devoir, projet , jeu IA
   * #### []()
   * #### []()
   * #### []()
 
 ------------------------------------------------------------------------------------------------
-### <a name="funIA"></a> fun et culture IA
+### <a name="funia"></a> fun et culture IA
   * #### [cours IA Raspberry Pi gratuit](https://experience-ai.org/fr-CA)
   * #### [mon site DeepLearning](https://sites.google.com/view/introduction-deep-learning/accueil)
   * #### exo7 - plein de ressources, par exemple :
@@ -117,7 +117,7 @@ vugarisons l'IA pour mieux vivre avec :
   * #### []()
 
 ------------------------------------------------------------------------------------------------
-### <a name="coolIA"></a> cool AI
+### <a name="coolia"></a> cool AI
   * #### outils IA pour les pro :
     * [collab : un outil incontournable](https://colab.research.google.com/)
     * [anaconda : l'idéal pour construire des tutos sympa](https://anaconda.org/)
@@ -130,7 +130,7 @@ vugarisons l'IA pour mieux vivre avec :
   * #### [yolo on raspberry pi - à tester](https://medium.com/@bergamasco.florian/yolo-raspberry-pi-how-to-create-a-smart-camera-3f7783420751)
 
 ------------------------------------------------------------------------------------------------
-### <a name="ethiqueIA"></a> IA et éthique ... est-ce possible ... il va bien falloir mais c'est pas facile ...
+### <a name="ethiqueia"></a> IA et éthique ... est-ce possible ... il va bien falloir mais c'est pas facile ...
   * #### articles autour d'évènements intéressants - IA et éthique :
     * [rapide et efficace !?](https://www.lebigdata.fr/google-comite-ethique-ia-dissolution)
     * [fired ... bye bye](https://www.lebigdata.fr/google-ia-ethique-renvoyee)
