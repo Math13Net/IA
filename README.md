@@ -11,7 +11,7 @@ apprendre l'Intelligence Artificielle - Collège et Lycée
 
 :+1:  [tricks for JYNB](https://vaticai.medium.com/the-most-important-jupyter-notebook-tricks-some-18779fd6479)
 
-## 🤖 [projet IA seconde - Lycée Jean Monnet](#test)
+## 🤖 [projet IA seconde - Lycée Jean Monnet](#IA)
 
 ## 🐍 [option Informatique troisième - Collège Rabelais](#info)
 
@@ -31,7 +31,7 @@ apprendre l'Intelligence Artificielle - Collège et Lycée
 
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
-## <a name="test"></a> [notre projet IA Seconde - Lycée Jean Monnet](https://docs.google.com/presentation/d/1a9L_dPGqSO18K5SkD16tiMjoMZ79Rc7YC3s0ZCz0fY4/edit?usp=sharing)  
+## <a name="IA"></a> [notre projet IA Seconde - Lycée Jean Monnet](https://docs.google.com/presentation/d/1a9L_dPGqSO18K5SkD16tiMjoMZ79Rc7YC3s0ZCz0fY4/edit?usp=sharing)  
 vugarisons l'IA pour mieux vivre avec :
 - programmer l'IA
 - utiliser l'IA
