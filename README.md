@@ -128,6 +128,7 @@ vugarisons l'IA pour mieux vivre avec :
   * #### [qualité mondiale de l'air - source 1](https://waqi.info/) - [qualité mondiale de l'air - source 2](https://www.iqair.com/earth?srsltid=AfmBOorr1rd3fjAawsPH0NbgBwvq7_Fk3C0rRdR7UExhfsKaFXRDQ6hE)
   * #### [yolo explained](https://medium.com/towards-data-science/yolo-intuitively-and-exhaustively-explained-83143925c7a9)
   * #### [yolo on raspberry pi - à tester](https://medium.com/@bergamasco.florian/yolo-raspberry-pi-how-to-create-a-smart-camera-3f7783420751)
+  * #### [les docus : pas d'info - il suffit de faire rechercher "intelligence artificielle"](https://www.les-docus.com/)
 
 ------------------------------------------------------------------------------------------------
 ### <a name="ethiqueia"></a> IA et éthique ... est-ce possible ... il va bien falloir mais c'est pas facile ...
