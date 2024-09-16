@@ -54,7 +54,7 @@ vugarisons l'IA pour mieux vivre avec :
 ### <a name="coursia"></a> cours Intelligence Artificielle
 
 * #### 1. introduction à l'IA
-  * ##### 1.1. [c'est quoi l'IA ?](https://youtu.be/q8V6RCkwooA?si=gX3GlS8RxA8FFBTM)
+  * ##### 1.1. [IA, tout comprendre](https://www.youtube.com/playlist?list=PLtlFqegzaUox0XY8wVg2eExORVuFyK9xV)
   * ##### [1.2. l'avenir de l'IA en 2024](https://youtu.be/dv9q7Ema40k?si=HLZdofD1sNwTN9jA)
   * ##### [1.3. AI Is Dangerous, but Not for the Reasons You Think](https://youtu.be/eXdVDhOGqoE?si=uIv3MVQ5Ex26AiMj)
   * ##### [ai carbon footprint](https://www.piie.com/blogs/realtime-economics/2024/ais-carbon-footprint-appears-likely-be-alarming)
