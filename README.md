@@ -61,6 +61,9 @@ vugarisons l'IA pour mieux vivre avec :
 
 * #### 2. [Vittascience Entrainement IA](https://fr.vittascience.com/ia/)
   * ##### 2.0. penser à vous connecter - [livret d'activités](https://fr.vittascience.com/learn/tutorial.php?id=403%2Fguide-d-utilisation-intelligence-artificielle-version-micro-bit)
+  * ##### 2.1 [le générateur de texte](https://fr.vittascience.com/ia/text.php)
+  * ##### 2.2 [le générateur d'image](https://fr.vittascience.com/ia/image-generate.php)
+  * #####
   * ##### 2.1. [découverte de l'interface IA](https://youtu.be/EDtvcOl_PhA?si=a80PlABj7h2XFQXB)
   * ##### 2.2. [tutoriel IA Adacraft](https://youtu.be/pnXHdTjZOak?si=WS0kg9-1EtZkYFxs)
   * ##### 2.3. [tutoriel IA réseaux de neurones](https://youtu.be/LWr9RS0y6r4?si=1KE5tDIAaAK5bqc5)
