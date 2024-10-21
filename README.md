@@ -85,6 +85,13 @@ vugarisons l'IA pour mieux vivre avec :
   * ##### 3.6. [Hand Tracking & Gesture Control With Raspberry Pi + OpenCV + Python](https://youtu.be/a7B5EZVHHkw?si=vnD5kIMqmyfWnjIg) 
   * ##### 3.7. [Face Landmark Detection & Pose Estimation With Raspberry Pi + OpenCV + Python](https://youtu.be/nzHqep1Vrjo?si=asRQ9Olo-pYK6tHV)
   * ##### 3.8. [Run Any Raspberry Pi AI Project FASTER! OAK-D Lite Camera, Getting Starting With Raspberry Pi](https://youtu.be/7BkHcJu57Cg?si=LmYQt4VQS2nQP713)
+  * ##### 3.9. [Use Sound and Machine Learning to Identify Birds with a Raspberry Pi - BirdNET-Pi](https://youtu.be/IM-F4sJ-5rc?si=37TpGjKp7xGiJ_HE)
+  * ##### [node-red-contrib-tensorflow](https://flows.nodered.org/node/node-red-contrib-tensorflow/in/YUVVUfplA_JO) 
+  * ##### 3.10. [node-red-contrib-tensorflow : Object Detection](https://www.linux.com/news/using-tensorflow-js-and-node-red-with-image-recognition-applications/) 
+  * ##### 3.11. [node-red-contrib-tensorflow : MediaPipe Handpose]()
+  * ##### 3.12. [node-red-contrib-tensorflow : MobileNet]()
+  * ##### 3.13. [node-red-contrib-tensorflow : PoseNet Model]()
+
 
 * #### [4. AlphaAI Robot](https://learningrobots.ai/)
   * ##### [Notice robot](https://www.robot-advance.com/pj-notice-robot-alphai-fr-394.pdf)
