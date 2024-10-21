@@ -91,6 +91,7 @@ vugarisons l'IA pour mieux vivre avec :
   * ##### 3.11. [node-red-contrib-tensorflow : MediaPipe Handpose]()
   * ##### 3.12. [node-red-contrib-tensorflow : MobileNet]()
   * ##### 3.13. [node-red-contrib-tensorflow : PoseNet Model]()
+  * ##### 3.13. [Node-Red Dashboard 2.0 - playlist](https://youtube.com/playlist?list=PLk9erb9HGsPiF_rZQjyoviBqtwXtvrIkU&si=nznKUvhnZ9AMEDXP)
 
 
 * #### [4. AlphaAI Robot](https://learningrobots.ai/)
