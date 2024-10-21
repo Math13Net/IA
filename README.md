@@ -42,7 +42,7 @@ vugarisons l'IA pour mieux vivre avec :
 
 ### 🔥 [fiches, résumés IA](#resumeia)
 
-### 🚀 [devoirs, jeu IA](#devoiria)
+### 🚀 [conférences](#confia)
 
 ### 😍 [fun et culture IA](#funia)
 
@@ -108,7 +108,7 @@ vugarisons l'IA pour mieux vivre avec :
   * #### []()
 
 ------------------------------------------------------------------------------------------------
-### <a name="devoiria"></a> devoir, projet , jeu IA
+### <a name="confia"></a> Conférences IA
   * #### [conférence de Christian Rétoré - LIRMM - chercheur IA: qu'est-ce que l'informatique ? d'où vient-elle ?](https://www.lirmm.fr/~retore/PRESENTATIONS/slidesLyceensFDS.pdf)
   * #### []()
   * #### []()
