@@ -77,6 +77,15 @@ vugarisons l'IA pour mieux vivre avec :
   * ##### [Documentation Matériel](https://www.raspberrypi.com/documentation/)
   * ##### [Projet](https://projects.raspberrypi.org/fr-FR/projects)
   * ##### [Project (more in English)](https://projects.raspberrypi.org/en/projects)
+  * ##### Projets tester en classe
+  * ##### 3.1. [Object Identification & Animal Recognition With Raspberry Pi + OpenCV + Python](https://youtu.be/iOTWZI4RHA8?si=9ztCmHTy7VJILFVD)
+  * ##### 3.2. [Face Recognition With Raspberry Pi + OpenCV + Python](https://youtu.be/o-x1PE0LVKM?si=EPtHkMb5m-jZWKhE)
+  * ##### 3.3. [Measure Speed With Raspberry Pi + OpenCV + Python](https://youtu.be/n2WT3Qb0SIU?si=aSCyhW9ciJzuOQAi) 
+  * ##### 3.4. [How To Scan QR Codes With A Raspberry Pi + OpenCV + Python](https://youtu.be/Qf55aUgfLfQ?si=PEBix32PVCOqyR-T)
+  * ##### 3.5. [Face & Movement Tracking System Using a Raspberry Pi + OpenCV + Pan-Tilt HAT + Python](https://youtu.be/T_892SKVNf4?si=3vvuSBqgWdDE4Gov)
+  * ##### 3.6. [Hand Tracking & Gesture Control With Raspberry Pi + OpenCV + Python](https://youtu.be/a7B5EZVHHkw?si=vnD5kIMqmyfWnjIg) 
+  * ##### 3.7. [Face Landmark Detection & Pose Estimation With Raspberry Pi + OpenCV + Python](https://youtu.be/nzHqep1Vrjo?si=asRQ9Olo-pYK6tHV)
+  * ##### 3.8. [Run Any Raspberry Pi AI Project FASTER! OAK-D Lite Camera, Getting Starting With Raspberry Pi](https://youtu.be/7BkHcJu57Cg?si=LmYQt4VQS2nQP713)
 
 * #### [4. AlphaAI Robot](https://learningrobots.ai/)
   * ##### [Notice robot](https://www.robot-advance.com/pj-notice-robot-alphai-fr-394.pdf)
