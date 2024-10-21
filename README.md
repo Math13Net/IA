@@ -101,6 +101,12 @@ vugarisons l'IA pour mieux vivre avec :
   * ##### [Activités](https://learningrobots.ai/les-ressources/)
 
 
+* #### Pour aller plus loin
+  * ##### [Natural Language Processing For Absolute Beginners](https://towardsdatascience.com/natural-language-processing-for-absolute-beginners-a195549a3164)
+  * ##### [A Weekend AI Project: Object Detection with YOLO on PC and Raspberry Pi](https://medium.com/towards-data-science/a-weekend-ai-project-object-detection-with-yolo-on-pc-and-raspberry-pi-0653e01032c1)
+  * ##### [Face Recognition with DeepFace: From Easy to Advanced](https://medium.com/ai-in-plain-english/face-recognition-with-deepface-from-easy-to-advanced-0983e617a110)
+
+
 ------------------------------------------------------------------------------------------------
 ### <a name="resumeia"></a> fiches Résumés IA
   * #### [glossaire IA](https://experience-ai.org/fr-CA/drive_resources/52.pdf)
