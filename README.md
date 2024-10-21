@@ -42,7 +42,7 @@ vugarisons l'IA pour mieux vivre avec :
 
 ### 🔥 [fiches, résumés IA](#resumeia)
 
-### 🚀 [conférences](#confia)
+### 🚀 [conférences IA](#confia)
 
 ### 😍 [fun et culture IA](#funia)
 
