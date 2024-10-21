@@ -77,7 +77,7 @@ vugarisons l'IA pour mieux vivre avec :
   * ##### [Documentation Matériel](https://www.raspberrypi.com/documentation/)
   * ##### [Projet](https://projects.raspberrypi.org/fr-FR/projects)
   * ##### [Project (more in English)](https://projects.raspberrypi.org/en/projects)
-  * ##### Projets tester en classe
+  * ##### Projets tester en classe :
   * ##### 3.1. [Object Identification & Animal Recognition With Raspberry Pi + OpenCV + Python](https://youtu.be/iOTWZI4RHA8?si=9ztCmHTy7VJILFVD)
   * ##### 3.2. [Face Recognition With Raspberry Pi + OpenCV + Python](https://youtu.be/o-x1PE0LVKM?si=EPtHkMb5m-jZWKhE)
   * ##### 3.3. [Measure Speed With Raspberry Pi + OpenCV + Python](https://youtu.be/n2WT3Qb0SIU?si=aSCyhW9ciJzuOQAi) 
