@@ -92,6 +92,7 @@ vugarisons l'IA pour mieux vivre avec :
   * ##### 3.12. [node-red-contrib-tensorflow : MobileNet]()
   * ##### 3.13. [node-red-contrib-tensorflow : PoseNet Model]()
   * ##### 3.13. [Node-Red Dashboard 2.0 - playlist](https://youtube.com/playlist?list=PLk9erb9HGsPiF_rZQjyoviBqtwXtvrIkU&si=nznKUvhnZ9AMEDXP)
+  * ##### 3.14. [Top Raspberry Pi AI Projects in 2024 for Beginners and Up](https://www.seeedstudio.com/blog/2024/07/04/raspberry-pi-ai-projects/?srsltid=AfmBOooN_LsW5kcieN4wT5pvQGJG4sFj5eJ4QCZ5p7FY4i-i39fHec71)
 
 
 * #### [4. AlphaAI Robot](https://learningrobots.ai/)
