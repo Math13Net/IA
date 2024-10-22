@@ -33,9 +33,9 @@ apprendre l'Intelligence Artificielle - Collège et Lycée
 ------------------------------------------------------------------------------------------------
 ## <a name="ia"></a> [notre projet IA Seconde - Lycée Jean Monnet](https://docs.google.com/presentation/d/1a9L_dPGqSO18K5SkD16tiMjoMZ79Rc7YC3s0ZCz0fY4/edit?usp=sharing)  
 vugarisons l'IA pour mieux vivre avec :
-- programmer l'IA
-- utiliser l'IA
-- réflexion : éthique et impact sociétal  
+- programmer l'IA : fabriquer une IA simple, la faire fonctionner, analyser ses défauts, ses biais ...
+- utiliser l'IA : apprendre à exploiter qq IAs en temps qu'utilisateurs lambda
+- réflexion : éthique, écologie, législation, impact sociétal ...  
 [un observatoire de l'IA](https://oecd.ai/fr/)
 
 ### 🌈 [cours IA](#coursia)
