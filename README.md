@@ -141,7 +141,7 @@ vugarisons l'IA pour mieux vivre avec :
   * #### [source intéressante](https://algorithmwatch.org/en/)
   * #### [plaisir d'apprendre avec l'IA - à tester](https://www.leplaisirdapprendre.com/portfolio/utiliser-lintelligence-artificielle-en-classe/)
   * #### [5 idées incontournables d'Aurélien Barrau](https://youtu.be/__Ez-YpI3tI?si=eMri-ArwAQN8Bp0e)
-  * 
+  * #### [LLM et Chatbots](https://www.innovatiana.com/post/chatbot-with-llm)
 
 ------------------------------------------------------------------------------------------------
 ### <a name="coolia"></a> cool AI
