@@ -114,9 +114,9 @@ vugarisons l'IA pour mieux vivre avec :
   * #### []()
 
 ------------------------------------------------------------------------------------------------
-### <a name="confia"></a> Conférences IA
+### <a name="confia"></a> Conférences IA - Documents intéressants
   * #### [conférence de Christian Rétoré - LIRMM - chercheur IA: qu'est-ce que l'informatique ? d'où vient-elle ?](https://www.lirmm.fr/~retore/PRESENTATIONS/slidesLyceensFDS.pdf)
-  * #### []()
+  * #### [IA pour les enseignants : un manuel ouvert - multilangue](https://www.ai4t.eu/textbook)
   * #### []()
 
 ------------------------------------------------------------------------------------------------
