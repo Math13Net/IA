@@ -102,9 +102,15 @@ vugarisons l'IA pour mieux vivre avec :
 
 
 * #### Pour aller plus loin
-  * ##### [Natural Language Processing For Absolute Beginners](https://towardsdatascience.com/natural-language-processing-for-absolute-beginners-a195549a3164)
+  * ##### LLM
+    * ###### [Natural Language Processing For Absolute Beginners](https://towardsdatascience.com/natural-language-processing-for-absolute-beginners-a195549a3164)
+    * ###### [LLM - ISDM](https://github.com/Math13Net/IA/blob/main/LLMs%20-%20introduction.pdf)
+    * ###### [Introduction to large language models - google video](https://youtu.be/zizonToFXDs?si=xLOtD7p7jSIFoNGf)
   * ##### [A Weekend AI Project: Object Detection with YOLO on PC and Raspberry Pi](https://medium.com/towards-data-science/a-weekend-ai-project-object-detection-with-yolo-on-pc-and-raspberry-pi-0653e01032c1)
   * ##### [Face Recognition with DeepFace: From Easy to Advanced](https://medium.com/ai-in-plain-english/face-recognition-with-deepface-from-easy-to-advanced-0983e617a110)
+  * ##### DeepLearning
+    * ##### [DL - CV](https://docs.google.com/presentation/d/1ggaxSfunnkJtv9tSRpAmaNSraU8qa3rJTJq7AKfeHxw/edit?usp=sharing)
+    * ##### [DL - ISDM](https://github.com/Math13Net/IA/blob/main/DeepLearning%20-%20Introduction.pdf) 
 
 
 ------------------------------------------------------------------------------------------------
