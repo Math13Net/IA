@@ -173,7 +173,7 @@ vugarisons l'IA pour mieux vivre avec :
     * [Enseigner l'éthique de l'IA au secondaire - j'adore les vidéos canadiennes !](https://youtu.be/Qa1B2utcGng?si=SxX-wRZeXd6s-2hs)
     * []()
   * #### activités ou production d'élèves :
-    * []()
+    * [une page intéressante : IA et éducation](https://www.ac-paris.fr/l-intelligence-artificielle-dans-l-education-130992)
     * []()
 
 ---------------------------------------------------------------------------------------------------------------------------
