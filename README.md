@@ -17,10 +17,6 @@ apprendre l'Intelligence Artificielle - Collège et Lycée
 
 ## 🎃 [my website on Deep Learning](https://sites.google.com/view/introduction-deep-learning/accueil)
 
-## 🚀 [my web site on Machine Learning](https://sites.google.com/view/intro-machine-learning/accueil)
-
-## 🔥 [my web site on Computer Vision]()
-
 ## :snake: [initiation à python](https://learnpython.org/)
 
 ## :key: [promt engineering]()
