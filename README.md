@@ -32,7 +32,7 @@ vugarisons l'IA pour mieux vivre avec :
 - programmer l'IA : fabriquer une IA simple, la faire fonctionner, analyser ses défauts, ses biais ...
 - utiliser l'IA : apprendre à exploiter qq IAs en temps qu'utilisateurs lambda
 - réflexion : éthique, écologie, législation, impact sociétal ...  
-[un observatoire de l'IA](https://oecd.ai/fr/) - [IA va-t-elle réussir à décentrer l'homme ?](https://youtu.be/7ocdOYp56tk?si=tv2fJLa1S6jZeyrE)
+[un observatoire de l'IA](https://oecd.ai/fr/) - [Men vs AI : an Apple example](https://youtu.be/7ocdOYp56tk?si=tv2fJLa1S6jZeyrE)
 
 ### 🌈 [cours IA](#coursia)
 
