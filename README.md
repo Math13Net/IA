@@ -2,7 +2,7 @@
 
 # AI - Artificial Intelligence in High School
 apprendre l'Intelligence Artificielle - Collège et Lycée  
-[find an ai for what uyou need](https://theresanaiforthat.com/)
+[find an ai for what you need](https://theresanaiforthat.com/)
 
 <p align="center">
 <a href="[https://www.youtube.com/watch?v=gpJvvH8JFn4](https://youtu.be/ad79nYk2keg)" target="_blank"> <img src="https://github.com/Math13Net/IA/blob/main/Van_Gogh_nuit.jpg" alt="NSI Première" width="600" height="350" border="10" /> </a>
