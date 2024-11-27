@@ -47,7 +47,7 @@ vugarisons l'IA pour mieux vivre avec :
 
 ### 🤝​ [éthique IA](#ethiqueia)
 
-### 🤝​ [concours VideoDiMath](#projet)
+### 🤝​ [projet élève - concours VideoDiMath](#projet)
 
 ------------------------------------------------------------------------------------------------
 ### <a name="coursia"></a> cours Intelligence Artificielle
@@ -182,12 +182,12 @@ vugarisons l'IA pour mieux vivre avec :
     * []()
 
 ---------------------------------------------------------------------------------------------------------------------------
-### <a name="projet"></a> Projet d'élève, réalisation, participation à VideoDiMath
+### <a name="projet"></a> Projet d'élève - Concours VideoDiMath
   * #### projet d'élève :
     * [IA - apprentissage supervisé](https://github.com/96Lumna96/I.A./tree/Projet-N%C2%B01)
     * []()
     * []()
-   * #### concours VideoDiMath :
+  * #### concours VideoDiMath :
     * [règlement 2024-2025](https://videodimath.math.cnrs.fr/videodimath/#calendrier)
     * []()
     * []()
