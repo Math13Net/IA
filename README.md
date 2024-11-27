@@ -47,7 +47,7 @@ vugarisons l'IA pour mieux vivre avec :
 
 ### 🤝​ [éthique IA](#ethiqueia)
 
-### 🤝​ [concours VideoDiMath](#videodimath)
+### 🤝​ [concours VideoDiMath](#projet)
 
 ------------------------------------------------------------------------------------------------
 ### <a name="coursia"></a> cours Intelligence Artificielle
