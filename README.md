@@ -47,6 +47,8 @@ vugarisons l'IA pour mieux vivre avec :
 
 ### 🤝​ [éthique IA](#ethiqueia)
 
+### 🤝​ [concours VideoDiMath](#videodimath)
+
 ------------------------------------------------------------------------------------------------
 ### <a name="coursia"></a> cours Intelligence Artificielle
 
@@ -178,6 +180,19 @@ vugarisons l'IA pour mieux vivre avec :
   * #### activités ou production d'élèves :
     * [une page intéressante : IA et éducation](https://www.ac-paris.fr/l-intelligence-artificielle-dans-l-education-130992)
     * []()
+
+---------------------------------------------------------------------------------------------------------------------------
+### <a name="projet"></a> Projet d'élève, réalisation, participation à VideoDiMath
+  * #### projet d'élève :
+    * [IA - apprentissage supervisé](https://github.com/96Lumna96/I.A./tree/Projet-N%C2%B01)
+    * []()
+    * []()
+   * #### concours VideoDiMath :
+    * [règlement 2024-2025](https://videodimath.math.cnrs.fr/videodimath/#calendrier)
+    * []()
+    * []()
+
+
 
 ---------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------
