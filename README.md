@@ -185,8 +185,8 @@ vugarisons l'IA pour mieux vivre avec :
 ### <a name="projet"></a> Projet d'élève - Concours VideoDiMath
   * #### projet d'élève :
     * [IA - apprentissage supervisé](https://github.com/96Lumna96/I.A./tree/Projet-N%C2%B01)
-    * []()
-    * []()
+    * [initiation à python - challenge]()
+    * [initiation à l'IA vi Vittascience - activités 1 & 2]()
   * #### concours VideoDiMath :
     * [règlement 2024-2025](https://videodimath.math.cnrs.fr/videodimath/#calendrier)
     * [aide pour l'organisation](https://github.com/Math13Net/IA/blob/main/aidevideodimath.pdf)
