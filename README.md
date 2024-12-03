@@ -99,7 +99,11 @@ vugarisons l'IA pour mieux vivre avec :
   * ##### [Notice robot](https://www.robot-advance.com/pj-notice-robot-alphai-fr-394.pdf)
   * ##### [Documentation Logiciel](https://www.robot-advance.com/pj-documentation-logiciel-alphai-fr-395.pdf)
   * ##### [Activités](https://learningrobots.ai/les-ressources/)
-
+  
+* #### [5. Colab]()
+  * ##### [Initiation DL : RN](https://github.com/Math13Net/IA/blob/main/Initiation_DeepLearning_Seconde.ipynb)
+  * ##### [Initiation DL : CNN](https://github.com/Math13Net/IA/blob/main/Introduction_CNN_Seconde.ipynb)
+  * ##### [Initiation DL : TL](https://github.com/Math13Net/IA/blob/main/Transfer_Learning_Seconde.ipynb)
 
 * #### Pour aller plus loin
   * ##### LLM
