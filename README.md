@@ -183,7 +183,7 @@ vugarisons l'IA pour mieux vivre avec :
     * []()
   * #### activités ou production d'élèves :
     * [une page intéressante : IA et éducation](https://www.ac-paris.fr/l-intelligence-artificielle-dans-l-education-130992)
-    * []()
+    * [comparateur d'IA du gouvernement](https://www.comparia.beta.gouv.fr/)
 
 ---------------------------------------------------------------------------------------------------------------------------
 ### <a name="projet"></a> Projet d'élève - Concours VideoDiMath
