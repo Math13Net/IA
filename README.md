@@ -188,8 +188,12 @@ vugarisons l'IA pour mieux vivre avec :
 ---------------------------------------------------------------------------------------------------------------------------
 ### <a name="projet"></a> Projet d'élève - Concours VideoDiMath
   * #### projet d'élève :
-    * [IA - apprentissage supervisé](https://github.com/96Lumna96/I.A./tree/Projet-N%C2%B01)
+    * [IA - apprentissage supervisé](https://github.com/96Lumna96/I.A./tree/Projet-N%C2%B01) - [IA - apprentissage supervisé](https://github.com/IsupposeAxel/Projet-IA/blob/Projet-N%C2%B01/Mod%C3%A8le%20IA.pdf)
     * [IA - workshop à Epitech - construction d'un site internet par IA pour la vente d'une voiture de luxe](https://github.com/96Lumna96/I.A./tree/Projet-Conferenciel-N%C2%B01?tab=readme-ov-file)
+    * [IA - conte hivernal](https://github.com/Lucie875/IA/blob/Projet-N%C2%B02/Projet%20IA%20Conte%20hivernal.pdf) - [IA - conte hivernal](https://github.com/96Lumna96/I.A./blob/Projet-N%C2%B02/Conte%20de%20no%C3%ABl%20IA.pdf) - [IA - conte hivernal](https://github.com/Lenny-bch/A.I./blob/Projet-N%C2%B01/Compte%20de%20noel.pdf) - [IA - conte hivernal](https://github.com/IsupposeAxel/Projet-IA/blob/Projet-N%C2%B02/Conte%20Hivernal.pdf) - []()
+    * []()
+    * []()
+    * []()
 
   * #### concours VideoDiMath :
     * [règlement 2024-2025](https://videodimath.math.cnrs.fr/videodimath/#calendrier)
