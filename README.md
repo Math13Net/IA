@@ -127,7 +127,7 @@ vugarisons l'IA pour mieux vivre avec :
 ### <a name="confia"></a> Conférences IA - Documents intéressants
   * #### [conférence de Christian Rétoré - LIRMM - chercheur IA: qu'est-ce que l'informatique ? d'où vient-elle ?](https://www.lirmm.fr/~retore/PRESENTATIONS/slidesLyceensFDS.pdf)
   * #### [IA pour les enseignants : un manuel ouvert - multilangue](https://www.ai4t.eu/textbook)
-  * #### []()
+  * #### [IA et cerveau](https://www.semaineducerveau.fr/ressources/nos-conferences-en-replay-3/#ia)
 
 ------------------------------------------------------------------------------------------------
 ### <a name="funia"></a> fun et culture IA
