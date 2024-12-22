@@ -206,7 +206,7 @@ vugarisons l'IA pour mieux vivre avec :
 
 
     * ##### projets terminale générale :  
-    * [IA - video initiale]() - []()
+    * [IA - video initiale : quand les émotions s'en mèlent ...](https://noodlemagazine.com/watch/426544215_456239333) - [travail-1](https://github.com/Math13Net/IA/blob/main/ES_ex_1.pdf) - [travail-2](https://github.com/Math13Net/IA/blob/main/ES_ex_2.pdf) - [travail-3](https://github.com/Math13Net/IA/blob/main/ES_ex_3.pdf) - [travail-4](https://github.com/Math13Net/IA/blob/main/ES_ex_4.pdf)
 
   * #### concours VideoDiMath :
     * [règlement 2024-2025](https://videodimath.math.cnrs.fr/videodimath/#calendrier)
