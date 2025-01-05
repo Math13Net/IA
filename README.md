@@ -192,14 +192,14 @@ vugarisons l'IA pour mieux vivre avec :
     * [IA - apprentissage supervisé](https://github.com/96Lumna96/I.A./tree/Projet-N%C2%B01) - [IA - apprentissage supervisé](https://github.com/IsupposeAxel/Projet-IA/blob/Projet-N%C2%B01/Mod%C3%A8le%20IA.pdf)
     * [IA - workshop à Epitech - construction d'un site internet par IA pour la vente d'une voiture de luxe](https://github.com/96Lumna96/I.A./tree/Projet-Conferenciel-N%C2%B01?tab=readme-ov-file)
     * [IA - conte hivernal](https://github.com/Lucie875/IA/blob/Projet-N%C2%B02/Projet%20IA%20Conte%20hivernal.pdf) - [IA - conte hivernal](https://github.com/96Lumna96/I.A./blob/Projet-N%C2%B02/Conte%20de%20no%C3%ABl%20IA.pdf) - [IA - conte hivernal](https://github.com/Lenny-bch/A.I./blob/Projet-N%C2%B01/Compte%20de%20noel.pdf) - [IA - conte hivernal](https://github.com/IsupposeAxel/Projet-IA/blob/Projet-N%C2%B02/Conte%20Hivernal.pdf) - [IA - conte hivernal](https://github.com/Math13Net/IA/blob/main/conte_hivernal.pdf)
-    * [affiche conférence cerveau](https://github.com/Math13Net/IA/blob/main/conference_cerveau.pdf) - [vidéo de la conférence : votre cerveau vous joue des tours](https://youtu.be/sBpBVtzlBw4?si=p4N0-ePf9NgI-3AG)
+    * [affiche conférence cerveau](https://github.com/Math13Net/IA/blob/main/conference_cerveau.pdf) - [vidéo de la conférence : votre cerveau vous joue des tours](https://youtu.be/sBpBVtzlBw4?si=p4N0-ePf9NgI-3AG) - [autre travail](https://github.com/Math13Net/IA/blob/main/cerveau%20-%20bis.png)
     * []()
    
   * ##### projets terminale technologique :  
     * [IA - video initiale](https://www.arte.tv/fr/videos/RC-025909/prompt/) - [IA - prompt1](https://github.com/Math13Net/IA/blob/main/prompt_1.pdf)
     * [IA - video initiale](https://www.arte.tv/fr/videos/RC-025909/prompt/) - [IA - prompt2](https://github.com/Math13Net/IA/blob/main/prompt_2.pdf)
     * [IA - video initiale](https://www.arte.tv/fr/videos/RC-025909/prompt/) - [IA - prompt3](https://github.com/Math13Net/IA/blob/main/prompt_3.pdf)
-    * [IA - video initiale](https://www.arte.tv/fr/videos/RC-025909/prompt/) - [IA - prompt4](https://github.com/Math13Net/IA/blob/main/prompt_4.pdf)     
+    * [IA - video initiale](https://www.arte.tv/fr/videos/RC-025909/prompt/) - [IA - prompt4](https://github.com/Math13Net/IA/blob/main/prompt_4.pdf) - [IA - prompt4 bis](https://github.com/Math13Net/IA/blob/main/prompt%204%20-%20bis.png)  
     * [IA - video initiale](https://www.arte.tv/fr/videos/RC-025909/prompt/) - [IA - prompt5](https://github.com/Math13Net/IA/blob/main/prompt_5.pdf)
     * [IA - video initiale](https://www.arte.tv/fr/videos/RC-025909/prompt/) - [IA - prompt6](https://github.com/Math13Net/IA/blob/main/prompt_6.pdf)
 
