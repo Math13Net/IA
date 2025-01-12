@@ -101,9 +101,8 @@ vugarisons l'IA pour mieux vivre avec :
   * ##### [Activités](https://learningrobots.ai/les-ressources/)
   
 * #### [5. Colab]()
-  * ##### [Initiation DL : RN](https://github.com/Math13Net/IA/blob/main/Initiation_DeepLearning_Seconde.ipynb) - [fiche élève TP1](https://github.com/Math13Net/IA/blob/main/Fiche_TP1_R%C3%A9seau_Dense.pdf)
-  * ##### [Initiation DL : CNN](https://github.com/Math13Net/IA/blob/main/Introduction_CNN_Seconde.ipynb) - [fiche élève TP2](https://github.com/Math13Net/IA/blob/main/Fiche_TP2_CNN.pdf)
-  * ##### [Initiation DL : TL](https://github.com/Math13Net/IA/blob/main/Transfer_Learning_Seconde.ipynb) - [fiche élève TP3](https://github.com/Math13Net/IA/blob/main/Fiche_TP3_Transfert_Apprentissage.pdf)
+  * ##### Initiation Depp Learning - RN :Neural Network [notebook jupyter](https://github.com/Math13Net/IA/blob/main/mnist.ipynb) - [fiche élève](https://github.com/Math13Net/IA/blob/main/MNIST_RN_eleve.pdf) - [solution](https://github.com/Math13Net/IA/blob/main/MNIST_RN_solution.pdf)
+  * ##### Initiation Depp Learning - CNN : Covolution Neural Network [notebook jupyter](https://github.com/Math13Net/IA/blob/main/mnist_cnn.ipynb) - [fiche élève](https://github.com/Math13Net/IA/blob/main/MNIST_CNN_eleve.pdf) - [solution](https://github.com/Math13Net/IA/blob/main/MNIST_CNN_solution.pdf)
 
 * #### Pour aller plus loin
   * ##### LLM
