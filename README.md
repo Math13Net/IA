@@ -47,7 +47,7 @@ vugarisons l'IA pour mieux vivre avec :
 
 ### 🤝​ [éthique IA](#ethiqueia)
 
-### 🤝​ [projet élève - concours VideoDiMath](#projet)
+### 🤝​ [projet élève - concours VideoDiMath](#projetia)
 
 ------------------------------------------------------------------------------------------------
 ### <a name="coursia"></a> cours Intelligence Artificielle
@@ -184,7 +184,7 @@ vugarisons l'IA pour mieux vivre avec :
     * [comparateur d'IA du gouvernement](https://www.comparia.beta.gouv.fr/)
 
 ---------------------------------------------------------------------------------------------------------------------------
-### <a name="projet"></a> Projet d'élève - Concours VideoDiMath
+### <a name="projetia"></a> Projet d'élève - Concours VideoDiMath
   * #### projets d'élèves :
   * ##### projets seconde IA :
     * [IA - apprentissage supervisé](https://github.com/96Lumna96/I.A./tree/Projet-N%C2%B01) - [IA - apprentissage supervisé](https://github.com/IsupposeAxel/Projet-IA/blob/Projet-N%C2%B01/Mod%C3%A8le%20IA.pdf)
