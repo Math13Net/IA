@@ -103,6 +103,10 @@ vugarisons l'IA pour mieux vivre avec :
   * ##### Initiation Depp Learning - RN :Neural Network [notebook jupyter](https://github.com/Math13Net/IA/blob/main/mnist.ipynb) - [fiche élève](https://github.com/Math13Net/IA/blob/main/MNIST_RN_eleve.pdf) - [solution](https://github.com/Math13Net/IA/blob/main/MNIST_RN_solution.pdf)
   * ##### Initiation Depp Learning - CNN : Covolution Neural Network [notebook jupyter](https://github.com/Math13Net/IA/blob/main/mnist_cnn.ipynb) - [fiche élève](https://github.com/Math13Net/IA/blob/main/MNIST_CNN_eleve.pdf) - [solution](https://github.com/Math13Net/IA/blob/main/MNIST_CNN_solution.pdf)
 
+* #### [6. ChaptGPT]()
+  * ##### Initiation au Web [fiche élève](https://github.com/Math13Net/IA/blob/main/Web_ChatGPT.pdf)
+  * ##### Préparer le bac avec ChatGPT [GPT TS](https://chatgpt.com/g/g-67c0413720388191bb36316a79c25859-revision-pour-le-bac)
+
 * #### Pour aller plus loin
   * ##### LLM
     * ###### [Natural Language Processing For Absolute Beginners](https://towardsdatascience.com/natural-language-processing-for-absolute-beginners-a195549a3164)
