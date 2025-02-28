@@ -104,7 +104,8 @@ vugarisons l'IA pour mieux vivre avec :
   * ##### Initiation Depp Learning - CNN : Covolution Neural Network [notebook jupyter](https://github.com/Math13Net/IA/blob/main/mnist_cnn.ipynb) - [fiche élève](https://github.com/Math13Net/IA/blob/main/MNIST_CNN_eleve.pdf) - [solution](https://github.com/Math13Net/IA/blob/main/MNIST_CNN_solution.pdf)
 
 * #### [6. ChaptGPT]()
-  * ##### Initiation au Web : [fiche élève](https://github.com/Math13Net/IA/blob/main/Web_ChatGPT.pdf)
+  * ##### Initiation au Web - partie 1 : [fiche élève](https://github.com/Math13Net/IA/blob/main/HTML%201%20IDE.pdf)
+  * ##### Initiation au Web - partie 2 : [fiche élève](https://github.com/Math13Net/IA/blob/main/Web_ChatGPT.pdf)
   * ##### Initiation à la cryptographie : [fiche prof](https://github.com/Math13Net/IA/blob/main/SHA-256-%20GPT.pdf) -  [NBJ](https://github.com/Math13Net/IA/blob/main/SHA-256-NBJ.ipynb)
   * ##### Préparer le bac avec ChatGPT [GPT TS](https://chatgpt.com/g/g-67c0413720388191bb36316a79c25859-revision-pour-le-bac)
 
