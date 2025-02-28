@@ -105,7 +105,7 @@ vugarisons l'IA pour mieux vivre avec :
 
 * #### [6. ChaptGPT]()
   * ##### Initiation au Web : [fiche élève](https://github.com/Math13Net/IA/blob/main/Web_ChatGPT.pdf)
-  * ##### Initiation à la cryptographie : [fiche élève](https://github.com/Math13Net/IA/blob/main/SHA-256-%20GPT.pdf) -  [NBJ](https://github.com/Math13Net/IA/blob/main/SHA-256-NBJ.ipynb)
+  * ##### Initiation à la cryptographie : [fiche prof](https://github.com/Math13Net/IA/blob/main/SHA-256-%20GPT.pdf) -  [NBJ](https://github.com/Math13Net/IA/blob/main/SHA-256-NBJ.ipynb)
   * ##### Préparer le bac avec ChatGPT [GPT TS](https://chatgpt.com/g/g-67c0413720388191bb36316a79c25859-revision-pour-le-bac)
 
 * #### Pour aller plus loin
