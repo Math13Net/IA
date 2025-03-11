@@ -215,7 +215,7 @@ vugarisons l'IA pour mieux vivre avec :
   * #### concours VideoDiMath :
     * [règlement 2024-2025](https://videodimath.math.cnrs.fr/videodimath/#calendrier)
     * [aide pour l'organisation](https://github.com/Math13Net/IA/blob/main/aidevideodimath.pdf)
-    * []()
+    * [vidéo 1](https://drive.google.com/file/d/1jmgOji-0ZVh1cbJE2G6SZROJy9VZvCN8/view?usp=sharing) - [vidéo 2](https://drive.google.com/file/d/1YOz4XkcQBP0moXchXR4OkXpukS-wEMZ5/view?usp=sharing) - [vidéo 3]()
 
 
 
