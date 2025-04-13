@@ -211,7 +211,7 @@ vugarisons l'IA pour mieux vivre avec :
 
     * ##### projets terminale générale :  
     * [IA - video initiale : quand les émotions s'en mêlent ...](https://noodlemagazine.com/watch/426544215_456239333) - [travail-1](https://github.com/Math13Net/IA/blob/main/ES_ex_1.pdf) - [travail-2](https://github.com/Math13Net/IA/blob/main/ES_ex_2.pdf) - [travail-3](https://github.com/Math13Net/IA/blob/main/ES_ex_3.pdf) - [travail-4](https://github.com/Math13Net/IA/blob/main/ES_ex_4.pdf)
-    * [Synesthésie, quand les sens s‘emmêlent](https://www.arte.tv/fr/videos/100822-000-A/synesthesie-quand-les-sens-s-emmelent/) - [travail 1][https://github.com/Math13Net/IA/blob/main/Synesth%C3%A9sie%20-%20T_ES.pdf]
+    * [Synesthésie, quand les sens s‘emmêlent](https://www.arte.tv/fr/videos/100822-000-A/synesthesie-quand-les-sens-s-emmelent/) - [travail 1](https://github.com/Math13Net/IA/blob/main/Synesth%C3%A9sie%20-%20T_ES.pdf)
 
   * #### concours VideoDiMath :
     * [règlement 2024-2025](https://videodimath.math.cnrs.fr/videodimath/#calendrier)
