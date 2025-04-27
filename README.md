@@ -218,6 +218,12 @@ vugarisons l'IA pour mieux vivre avec :
     * [aide pour l'organisation](https://github.com/Math13Net/IA/blob/main/aidevideodimath.pdf)
     * [vidéo 1](https://drive.google.com/file/d/1jmgOji-0ZVh1cbJE2G6SZROJy9VZvCN8/view?usp=sharing) - [vidéo 2](https://drive.google.com/file/d/1YOz4XkcQBP0moXchXR4OkXpukS-wEMZ5/view?usp=sharing) - [vidéo 3](https://drive.google.com/file/d/1COqzalvkwqvF7Wzob0WDADawCfOs-qMW/view?usp=sharing) - [vidéo 4](https://drive.google.com/file/d/1_YkMiazlXkxcJu8CgUPyZV3MpuG7iUV-/view?usp=sharing)
 
+  * #### site web développé par IA :
+    * [projet 1](https://github.com/Math13Net/IA/blob/main/Site%20Web%20-%20AI%20assisted.zip) - [projet 2]() - [projet 3]()
+
+
+
+
 
 
 ---------------------------------------------------------------------------------------------------------------------------
