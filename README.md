@@ -1,6 +1,6 @@
 <!-- IA - from math13net -->
 
-# AI - Artificial Intelligence in High School
+# [AI - Artificial Intelligence in High School](https://youtu.be/qMYaojvFAfk?si=uXobFugyoDIB9gF-)
 apprendre l'Intelligence Artificielle - Collège et Lycée  
 [find an ai for what you need](https://theresanaiforthat.com/)
 
